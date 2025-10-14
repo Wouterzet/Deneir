@@ -1,0 +1,4 @@
+- The Gateway Station was designed to open a dimensional rift.
+- The Halruaan never opened a portal using the Gateway Station as the amount of energy needed to create a portal that had enough of a time ripple to make a meaningful data transfer was impossible.
+- After leaving the Gateway Station to charge, the Halruaan took a break to investigate a newly arrived comet.
+- According to a Halruaan computer, our sun has reached the end of its natural life cycle.

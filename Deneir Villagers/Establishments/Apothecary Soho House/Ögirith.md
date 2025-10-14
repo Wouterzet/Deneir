@@ -1,0 +1,2 @@
+Ögirith, Human, (She/Her) Living with [[Mamma Yaga]] (Helps out on Farm, and is apprenticing at Soho House). 16
+Ögirith is a young girl who is learning the art of alchemy by apprenticing under [[Soho Peabody]].  She is, however, becoming impatient with the repeated lessons.

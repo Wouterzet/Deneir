@@ -1,0 +1,4 @@
+- Every Halruaan warp tower is tuned to a specific astral body.
+- To use a tower, you must be standing on the warp platform during the tower's alignment with its corresponding astral body (the alignment happens when the astral body is directly overhead).
+- The Halruaan noticed something strange: Warped objects appeared to arrive at the receiver on Brittle Hollow slightly before they departed the White Hole Station.
+- This negative time interval between an object arriving and departing was incredibly miniscule (roughly one hundred-thousandth of a second). The Halruaan were skeptical if their equipment could even measure time to such a small degree.

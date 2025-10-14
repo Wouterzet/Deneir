@@ -1,0 +1,3 @@
+- The Halruaan successfully reproduced the temporal anomaly first observed at the White Hole Station (warped objects appear to arrive before they depart).
+- The Halruaan discovered they could increase the negative time interval between arrival and departure by adding energy to the warp cores.
+- The Halruaan wanted to know if a 1 day negative time interval was possible. They concluded it would require a way to produce the necessary energy as well an advanced warp core to handle those energies. The Plains of Ormen was proposed as a location for the project.

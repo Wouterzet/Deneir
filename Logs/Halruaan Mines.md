@@ -1,0 +1,3 @@
+- The Halruaan mined ore from this site to craft a protective shell designed to physically seal off the central chamber inside the [[Deneir Project]].
+- Once the shell was finished, [[Halruaan]] checked to ensure there were no longer any physical entrances or cracks.
+- ~~[[Halruaan]] discovered a species of four-eyed, semi-aquatic lifeforms in the waterways near the mine.~~

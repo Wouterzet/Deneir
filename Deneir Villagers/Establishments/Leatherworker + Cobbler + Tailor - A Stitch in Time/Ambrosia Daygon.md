@@ -1,0 +1,2 @@
+Ambrosia Daygon, Human (She/Her) Widowed (Currently Ill) Age: Old
+Is a fallen feylord, banished from the feywild and is now siphoning this town’s lifeforce through the clothes they wear.  (Uses the any Hag statblock of your choosing)

@@ -1,0 +1,1 @@
+Sashimi Koi, Red Dara (Can use a kenku too) (He/Him). 22 (Acts and looks in his 40s)
