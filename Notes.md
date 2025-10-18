@@ -1,21 +1,21 @@
-The players find themselves stranded on the island of [[Nimbral]] after a sudden and heavy storm takes out their ship deep in the night while traveling the [[Trackless Sea]]. When the sun rises above the rolling hills they see [[Deneir Village]]. Today is the first day of the Skyfire festival. They come across a shrine just outside the village that has four pillars. These pillars are old and weathered but share a noticeable carving of a horizontal line on all of them. As the party steps onto the shrine the line open to reveal eyes looking at each of the party members. The pupil consists of a triangle instead of a circle and when they open a flame flares up just above the eye. Nothing else happens on the surface but deep below the ground. Under a massive layer of near indestructible stone, ancient Halruaan devices churn up. Linking to the players' minds.
+The players find themselves stranded on the island of [[Nimbral]] after a sudden and heavy storm takes out their ship deep in the night while traveling the [[Trackless Sea]]. When the sun rises above the rolling hills they see [[Deneir Village]]. Today is the first day of the Skyfire festival. They come across a shrine just outside the village that has four pillars. These pillars are old and weathered but share a noticeable carving of a horizontal line on all of them. As the party steps onto the shrine the lines open to reveal eyes looking at each of the party members. The pupil consists of a triangle instead of a circle and when they open a flame flares up just above the eye. Nothing else happens on the surface but deep below the ground. Under a massive layer of near indestructible stone, ancient Halruaan devices churn up. Linking to the players' minds.
 
-They live out their first ordinary day, getting to know the townsfolk and exploring the village. Only to tragically watch everyone get instantly slaughtered by an unknown source which suddenly kills them all too. Until they feel the warmth of a rising sun on their face. As they open their eyes they see the sun rise above the rolling hills around Toki village.
+They live out their first ordinary day, getting to know the townsfolk and exploring the village. Only to tragically watch everyone get slaughtered by an giant portal above the town which kills them all too. Until they feel the warmth of a rising sun on their face. As they open their eyes they see the sun rise above the rolling hills around Deneir village.
 
 The town gets wiped out by a cataclysmic event at the end of every day. Only for the players to wake up at the start of the day, like it was all a dream. At 12:00 pm every night a dimensional portal opens in the village, bringing with it a catastrophic disaster every time. 
 
 **What is happening:**
 At some point during the Spellplague, the island of [[Nimbral]] vanished without a trace. The entire island got somehow teleported to a different dimension, with seemingly no way to return back to the world of [[Toril]].
 
-The dimension that they find themselves in now seemed hospitable and peaceful. The planet that their island got teleported to seemed not too different from Toril. Except that there seemed to be no other landmasses on this water planet and the sun had a much redder tint. The Halruaan people were scared at first, but found their calm and place in this new world over time. 
+The dimension that they find themselves in now seemed hospitable and peaceful. The planet that their island got teleported to seemed not too different from Toril. Except that there seemed to be no other landmasses on this water planet. The Halruaan people were scared at first, but found their calm and place in this new world over time. 
 
 That was until a Halruaan named Meruvas, an astrophysicist studying their new solar system, discovered a comet that had narrowly missed their planet. The object was massive enough that, had it struck, it could have caused a mass extinction. After charting its orbit, Meruvas realized the comet would return every five years, each pass bringing it closer, until the planet’s gravity would inevitably seize it and drag it into a catastrophic collision. His calculations placed the impact in roughly 1100 years or 220 cycles.
 
 Determined on finding a way for their descendants to live on, they set out on getting their people back home. 
 
-Eventually the [[Halruaan]] people found a way to open a portal to different dimensions and a way teleport their home there. However they had no way to know where their original world was. And if they were not exact in their measurement, the portal would open to a dimension with disastrous implications. As the dimensional portals could be opened in occupied spaces, in contrast to regular ones.
+Eventually the [[Halruaan]] people found a way to open a portal to different dimensions and a way teleport their home there. However they had no way to know where their original world was. And if they were not exact in their measurement, the portal would open to a dimension with disastrous implications. (As the dimensional portals could be opened in occupied spaces, in contrast to regular ones.)
 
-However they did find a way to supposedly send memories and data 19 hours back in time using the energy released during the opening of the portal. 
+However they did find a way to supposedly send memories and data back in time using the energy released during the opening of the portal. 
 
 With this they thought of a way to return back to their original land. They would set up a system to automatically open a portal to a randomized dimension. Using the energy released from opening the portal, it would send the data gathered about the dimension back in time. Only to open a new portal the moment the clock strikes 12 and start the search for their home again and again.
 
@@ -78,6 +78,6 @@ If a pillar were to lose synchronization with a user (in case of death or simila
 
 **Energy creation on the island.** 
 
-The island is situated on a planet with nothing other than water. The sun creates a tide that moves around the planet. The Halruaan people made tidal turbines below the island that slowly powered the [[Gateway Station]]. 
+The island is situated on a planet with nothing other than water. The sun creates a tide that moves around the planet. The Halruaan people made tidal turbines below the island that slowly powered the [[Gateway Station]]. This was called [[The Deep Current Station]]. This station is where the turbines are that use the water coming in from [[the flow chamber]] to generate power.
 
 The Halruaan had no choice other than waiting for the [[Gateway Station]] to slowly be charged by the planets tides. In the time between the Halruaan people waiting and when the party appeared, something happened to the Halruaan people or they just forgot/didn't have to bother. 
