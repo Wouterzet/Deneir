@@ -1,1 +1,1 @@
-This is where the knowledge of the Halruaan is stored about the Deneir project. A 
+This is where the knowledge of the Halruaan is stored about the Deneir project. A user that is synced to the Deneir project would be able to enter here and make themselves aquatinted with the instruments and machinery to fix a nonoperational part of the project or related systems.
