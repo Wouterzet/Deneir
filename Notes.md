@@ -17,11 +17,11 @@ Eventually the [[Halruaan]] people found a way to open a portal to different dim
 
 However they did find a way to supposedly send memories and data back in time using the energy released during the opening of the portal. 
 
-With this they thought of a way to return back to their original land. They would set up a system to automatically open a portal to a randomized dimension. Using the energy released from opening the portal, it would send the data gathered about the dimension back in time. Only to open a new portal the moment the clock strikes 12 and start the search for their home again and again.
+With this they thought of a way to return back to their original land. They would set up a system to automatically open a portal to a randomized dimension. Using the energy released from opening the portal, it would send the data gathered about the dimension back in time. Only to open a new portal to a new randomised location the moment the clock strikes 12 and start the search for their home again and again.
 
 The people of the village would get slaughtered hundreds, thousands maybe millions of times every night. Every time by a new cataclysmic dimensional portal. Only to not know anything about it when the players restart the loop, as it has not happened yet.
 
-However the dimension they were stuck in was home to an [[Atropal]] that destroyed the energy core that was supposed to be used to teleport the island back to its rightful place in the [[Trackless Sea]]. The players must take out the core for the memory return system to use for the teleporting system while entering the dimensional coordinates they found. Only then, using the energy released from the portal that night, they can teleport the island back to [[Toril]].
+However the dimension they were stuck in was home to an [[Atropal]] that destroyed the energy core that was supposed to be used to teleport the island back to its rightful place in the [[Trackless Sea]]. The players must take out the core for the Deneir project to use for the teleporting system while entering the dimensional coordinates they found. Only then, using the energy released from the portal that night, they can teleport the island back to [[Toril]].
 
 
 About the [[Atropal]]
@@ -29,13 +29,18 @@ About the [[Atropal]]
 Players can learn its weaknesses in the following ways:
 
 There are notes from a farmer about umbilical cords of lifestock (maybe not) or the stems of fruit (maybe better) that are supplying them with energy. Growing a record sized gourd??? hmmm
-The Atropal is connected to the Warp core with an umbilical cord. The supply of energy from the core through the Atropol causes an aura of necrotic energy around the atropol as leftover energy is exuded. This is also why the warp core no longer has enough energy for teleportation as the core is damaged. 
+The Atropal is connected to the Warp core with an umbilical cord. The supply of energy from the core through the Atropol causes an aura of necrotic energy around the atropol as leftover energy is exuded. This is also why the warp core is no longer capable of teleportation as the core is damaged. 
 
 However they cannot even get close to the umbilical cord because of the necrotic energy. But the party may ask [[Mamma Yaga]] for help with creating anti necrotic wards
 
+
+
 They can find [[Annie Miller]] in Toril village who seemingly has "eyes in the back of her head" as she knows the children of the village are sneaking up on her while she is knitting on her porch. After more prying she reveals that after all these years alive she just feels peoples energy. That was also when she felt her husband had passed away when she felt him go invisible. 
 
+
+
 [[Maybell Miller]] is crying in [[Marla Miller]]'s arms while she tries to soothe them. [[Soho Peabody]] has made his own earplugs using wax and ... that blocks out the specific frequency of the babies wail. He does not have enough for the party but he knows where they can probably get more.
+
 
 About the Warp device
 
@@ -61,15 +66,15 @@ Experiment 1: they opened a portal to a random location with precautions present
 
 Experiment 2: for this experiment Velthamar created a machine that read and logged his brain. In spite of his colleagues being convinced he was losing his mind, they continued on with the experiment thinking it would show him that his efforts were fruitless and that it would cause him to find a better way to cope with the loss of his better half. 
 The opening of the portal again showed how dangerous these experiments were when a rock-covered arm came through and crushed the leg of one of the mages present.
-Thinking they came out lucky this time and that the manic actions of their once highly respected colleague were over the team felt saddened but relieved. However Velthamar proved them wrong when he showed them the machine's logs. The machine received 2 entries from 2 different sources at the same time just as the divination spell entered the portal. 
+Thinking they came out lucky this time and that the manic actions of their once highly respected colleague were over, the team felt saddened but relieved. However Velthamar proved them wrong when he showed them the machine's logs. The machine received 2 entries from 2 different sources at the same time just as the divination spell entered the portal. 
 
 The team tried to rule this out as a configuration error or that the machine was incapable of measuring time to such a small decree. But could only prove the opposite after much testing. The readings were right. 
 
 Experiment 3: using more energy, the team opened a bigger portal to find out if the time dilation could be enhanced and thus be used in some way. 
-The team, now fully supporting the efforts of the research leader, braced themselves as a portal opened and a pleasant sunshine filled the room from the other side. What they sadly couldn't see is how the room was flooded with a colourless poisonous gas that claimed the lives of 2 researchers. 
+The team, now fully supporting the efforts of the research leader, braced themselves as a portal opened and a pleasant sunshine filled the room from the other side. What they sadly couldn't see is how the room flooded with a colourless poisonous gas that claimed the lives of 2 researchers. 
 Despite the tragic death of 2 of their colleagues, the team considered the experiment itself a succes as the readings showed that the time dilation increased as the portal grew.
 
-Using bigger portals they managed to increase the time ripple created. However the amount of power needed scaled exponentially and they did not have enough to power a portal that would be substantial enough. They needed the time ripple to be long enough so that when something was wrong with any of the modules or the gateway station, they would have enough time to fix it. 
+Using bigger portals they managed to increase the time ripple created. However the amount of energy needed scaled exponentially and they did not have enough to power a portal that would be substantial enough. They needed the time ripple to be long enough so that when something was wrong with any of the modules or the gateway station, they would have enough time to fix it. 
 
 They set the system to run when the power would be enough for a 24 hour ripple, however even with this amount they did not know whether it would be enough or how long it would even take to power up.
 
