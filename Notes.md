@@ -76,7 +76,7 @@ Despite the tragic death of 2 of their colleagues, the team considered the exper
 
 Using bigger portals they managed to increase the time ripple created. However the amount of energy needed scaled exponentially and they did not have enough to power a portal that would be substantial enough. They needed the time ripple to be long enough so that when something was wrong with any of the modules or the gateway station, they would have enough time to fix it. 
 
-They set the system to run when the power would be enough for a 24 hour ripple, however even with this amount they did not know whether it would be enough or how long it would even take to power up.
+They set the system to run when the energy would be enough for a 24 hour ripple, however even with this amount they did not know whether it would be enough or how long it would even take to power up.
 
 If a pillar were to lose synchronization with a user (in case of death or similar) the pillar would sync with the nearest user when prompted to by the Deneir project. In case of a system failure the user would have theoretical infinite time to make themselves aquatinted with the instruments and machinery in the library.
 
