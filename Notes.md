@@ -98,7 +98,7 @@ The Halruaan had no choice other than waiting for the [[Gateway Station]] to slo
 - Get Anti Necrotic Wards from Mama Yaga
 - Go to [[the deep current station]]
 - Reroute some power to [[Shrine]] teleporter
-- Reroute the remaining power to the [[warp station]].
+- Reroute the remaining power to the [[warp station]]
 - Enter the [[Deneir Project]]
 - Take out the [[Advanced warp core]]
 - Go to the [[warp station]]
