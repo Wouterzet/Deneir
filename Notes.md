@@ -78,7 +78,7 @@ Using bigger portals they managed to increase the time ripple created. However t
 
 They set the system to run when the energy would be enough for a 24 hour ripple, however even with this amount they did not know whether it would be enough or how long it would even take to power up.
 
-If a pillar were to lose synchronization with a user (in case of death or similar) the pillar would sync with the nearest user when prompted to by the Deneir project. In case of a system failure the user would have theoretical infinite time to make themselves aquatinted with the instruments and machinery in the library.
+If a pillar were to lose synchronization with a user (in case of death or similar) the pillar would sync with the nearest user when prompted to by the Deneir project. In case of a system failure the user would have theoretical infinite time to make themselves acquainted with the instruments and machinery in the library.
 
 
 **Energy creation on the island.** 
