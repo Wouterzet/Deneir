@@ -86,3 +86,16 @@ If a pillar were to lose synchronization with a user (in case of death or simila
 The island is situated on a planet with nothing other than water. The sun creates a tide that moves around the planet. The Halruaan people made tidal turbines below the island that slowly powered the [[Gateway Station]]. This was called [[The Deep Current Station]]. This station is where the turbines are that use the water coming in from [[the flow chamber]] to generate power.
 
 The Halruaan had no choice other than waiting for the [[Gateway Station]] to slowly be charged by the planets tides. In the time between the Halruaan people waiting and when the party appeared, something happened to the Halruaan people or they just forgot/didn't have to bother. 
+
+
+
+**Order to completion**
+- Enter the island after the storm
+- Enter the village
+- Get linked to the pillars
+- Go to the construct tracking station
+- Get the coordinates for [[Toril]]
+- Go to [[the deep current station]]
+- Reroute power to shrine teleporter
+- Enter Deneir project
+- Take out 
