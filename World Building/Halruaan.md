@@ -1,0 +1,1 @@
+The Halruaan wereThe Halruaans were an ethnic group of humans who made up the vast majority of the population of Halruaa and Nimbral. They also composed a tiny percentage of the population of Lapaliiya and the Shaar.
