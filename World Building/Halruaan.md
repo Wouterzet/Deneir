@@ -6,3 +6,6 @@ In contrast, Halruaans were often very suspicious of foreigners with anxieties a
 
 **Education**
 Education was extremely important to Halruaans and they took pride in teaching their children to read and write at an early age. This prepared the youth for their tests for aptitude in the arcane arts, and their future years studying in the public schools of Halruaa.
+
+**Communication**
+Most Halruaans spoke the Halruaan language, a dialect of the Netherese languages, and used a  script. The wizards among them generally learned many other languages, especially dead and magical ones.
