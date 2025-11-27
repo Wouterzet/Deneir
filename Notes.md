@@ -90,12 +90,23 @@ The Halruaan had no choice other than waiting for the [[Gateway Station]] to slo
 
 
 **Order to completion**
-- Enter the island after the storm
-- Enter the village
-- Get linked to the pillars
-- Go to the construct tracking station
+- Enter [[Nimbral]] after the storm
+- Enter the [[Deneir Village]]
+- Get linked to the pillars in the [[Shrine]]
+- Go to the [[Construct Tracking Module]]
 - Get the coordinates for [[Toril]]
+- Get Anti Necrotic Wards from Mama Yaga
 - Go to [[the deep current station]]
-- Reroute power to shrine teleporter
-- Enter Deneir project
-- Take out 
+- Reroute some power to [[Shrine]] teleporter
+- Reroute the remaining power to the [[warp station]].
+- Enter the [[Deneir Project]]
+- Take out the [[Advanced warp core]]
+- Go to the [[warp station]]
+- Take out the [[Atropal]]'s umbilical link to the old warp core
+- Kill the [[Atropal]]
+- Put in the [[Advanced warp core]] from the [[Deneir Project]]
+- Enter the coordinates
+- Warp [[Nimbral]] back to [[Toril]]
+
+Things of note:
+The comet will destroy Nimbral on the second day of the skyfire festival. After taking out the warp core (and thus being able to go past 12:00pm) the players have some extra time compared to normally to defeat the Atropal and teleport the island back to Toril.
