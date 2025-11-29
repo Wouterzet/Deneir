@@ -1,1 +1,0 @@
-Gracie Kemli, Goblin (She/Her) daughter of [[Greebo Kemli]] (Mother Unknown), lives on the farm. 2
