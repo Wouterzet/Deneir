@@ -1,4 +1,4 @@
-### **Cycle 1**
+2### **Cycle 1**
 
 **Launch orders**  
 3 MINUTES, 42 SECONDS AGO: Request to initiate dimensional survey received from Deneir Project.  
