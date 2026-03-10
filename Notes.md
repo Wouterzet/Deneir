@@ -21,7 +21,7 @@ With this they thought of a way to return back to their original land. They woul
 
 The people of the village would get slaughtered hundreds, thousands maybe millions of times every night. Every time by a new cataclysmic dimensional portal. Only to not know anything about it when the players restart the loop, as it has not happened yet.
 
-However the dimension they were stuck in was home to an [[Atropal]] that destroyed the energy core that was supposed to be used to teleport the island back to its rightful place in the [[Trackless Sea]]. The players must take out the core for the Deneir project to use for the teleporting system while entering the dimensional coordinates they found. Only then, using the energy released from the portal that night, they can teleport the island back to [[Toril]].
+However the dimension they were stuck in was home to an [[Atropal]] that destroyed the [[Advanced warp core]] that was supposed to be used to teleport the island back to its rightful place in the [[Trackless Sea]]. The players must take out the core for the Deneir project to use for the teleporting system while entering the dimensional coordinates they found. Only then, using the energy released from the portal that night, they can teleport the island back to [[Toril]].
 
 
 About the [[Atropal]]
@@ -52,7 +52,7 @@ The dimensional coordinates of Toril.
 
 
 
-The Toril coordinates were discovered on cycle ...
+The Toril coordinates were discovered on cycle 220
 
 
 
