@@ -1,0 +1,2 @@
+Ilmarros Myrralen, [[Halruaan]] (He/Him), Deceased
+Ilmarros worked on the [[Deneir Project]]. In addition he regularly checked in with other critical project locations. [[Clary]], who worked at the ... was his romantic part

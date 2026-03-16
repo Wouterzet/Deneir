@@ -23,4 +23,42 @@ The original inventor of the dimensional portals. Lost her life in a tragic acci
 Partner of [[Vaerys]]. Continued and completed her study on dimensional portals.
 - [[Meruvas]]
 Studied the [[Skyfire Comet]] and discoverd its orbit will collide with the planet.
-* *
+* [[Ilmarros]]
+
+
+
+### **Male Names**
+
+- **Aeltharion**
+- **Meruvas**
+- **Tharivol**
+- **Jassirion**
+- **Cymorrel**
+- **Velthamar**
+- **Orlathis**
+- **Zeruvan**
+- **Ilmarros**
+### **Female Names**
+
+- **Selyra**
+- **Thariel**
+- **Olyssane**
+- **Maruviel**
+- **Yllindra**
+- **Cevira**
+- **Elvanna**
+- **Soriel**
+- **Vaerys**
+### **Family / Lineage Names**
+
+(Think: lofty, arcane, sky-oriented, sometimes compound names)
+
+- **Dathmir** (“star-thought”)
+- **Velthorn**
+- **Myrralen**
+- **Auvathar**
+- **Zorynth**
+- **Thalruen**
+- **Ilvessar**
+- **Orrindral**
+- **Faelithor**
