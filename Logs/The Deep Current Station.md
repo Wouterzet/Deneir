@@ -35,7 +35,7 @@ PYE: I don’t know what comes next, my friends. We may need to begin again, tho
 
 [[Ilmarros]]: Pye… I truly feel for you both. Everyone knows how much effort you and Idaea poured into this project. I can only offer my sympathy. How are you holding up? And Idaea?
 
-IDAEA: We are… managing, Yarrow. As well as can be expected, given everything. Disappointed, certainly.
+IDAEA: We are… managing, ilmarros. As well as can be expected, given everything. Disappointed, certainly.
 
 IDAEA: I argued against building something this dangerous in the first place, but even so… I never hoped it would fail.
 

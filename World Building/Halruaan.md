@@ -24,9 +24,13 @@ Partner of [[Vaerys]]. Continued and completed her study on dimensional portals.
 - [[Meruvas]]
 Studied the [[Skyfire Comet]] and discoverd its orbit will collide with the planet.
 * [[Ilmarros]] Yarrow?
+Worked on the [[Deneir Project]] and oversaw other projects as well.
 * [[Soriel]] Clary?
-
-
+worked with [[Velthamar]] and [[Root]] at the [[black hole forge]].
+* [[Tharivol]] Idaea?
+worked at [[The Deep Current Station]]. Brother to [[Elvanna]].
+* [[Elvanna]] Privet?
+Worked at the [[Construct Intelligence Center]].  Sister of [[Tharivol]].
 
 ### **Male Names**
 
@@ -57,7 +61,6 @@ Studied the [[Skyfire Comet]] and discoverd its orbit will collide with the plan
 - **Dathmir** (“star-thought”)
 - **Velthorn**
 - **Myrralen**
-- **Auvathar**
 - **Zorynth**
 - **Thalruen**
 - **Ilvessar**
