@@ -10,3 +10,5 @@
 The **Construct Tracking Module** is the module that receives and transmits the construct's data, but the entrance to it has caved in since it was build long ago.
 
 The module can be entered from ... . The data found here reveals that readings matching the dimension of Toril were discovered by the 193.642th construct. The module system provides the Eye's coordinates in the form of three hexagonal characters. An activated Nomai Memory Statue can be found in the module, connected to an active mask in the Ash Twin Project and being the method by which the probe data is sent back in time.
+
+The ceiling is unstable and after the 
