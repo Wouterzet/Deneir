@@ -14,3 +14,11 @@ On the island of Nimbral, especially at the Deneir project, the Halruaans used a
 Halruaa and magic were linked with one another. Halruaans considered it a mark of honor and prestige to excel in the arcane arts, the mastery of which was viewed as the pinnacle of accomplishment. Interstingly enough, even the poorest commoner could cast simple spells. Magical flair was less important in the rural areas, where magic was valued more for it's pragmatic, every-day use. Despite this small difference, magic was an aspect of daily use whether in the items they used, their transportation and even how they cooked and traveled.
 
 Even as magic was seeped in every aspect of Halruaan life, they left their own mark on the magical arts as a whole. It is said every kind of magic that is practiced has been researched, altered, improved and even perfected at one time or another by the Halruaan.
+
+
+**List of Halruaans**
+- [[Vaerys]]
+The original inventor of the dimensional portals. Lost her life in a tragic accident.
+- [[Velthamar]] 
+Partner of [[Vaerys]]. Continued and completed her study on dimensional portals.
+- [[Meruvas]]

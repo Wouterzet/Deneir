@@ -9,7 +9,7 @@ At some point during the Spellplague, the island of [[Nimbral]] vanished without
 
 The dimension that they find themselves in now seemed hospitable and peaceful. The planet that their island got teleported to seemed not too different from Toril. Except that there seemed to be no other landmasses on this water planet. The Halruaan people were scared at first, but found their calm and place in this new world over time. 
 
-That was until a Halruaan named Meruvas, an astrophysicist studying their new solar system, discovered a comet that had narrowly missed their planet. The object was massive enough that, had it struck, it could have caused a mass extinction. After charting its orbit, Meruvas realized the comet would return every five years, each pass bringing it closer, until the planet’s gravity would inevitably seize it and drag it into a catastrophic collision. His calculations placed the impact in roughly 1100 years or 220 cycles.
+That was until a Halruaan named [[Meruvas]], an astrophysicist studying their new solar system, discovered a comet that had narrowly missed their planet. The object was massive enough that, had it struck, it could have caused a mass extinction. After charting its orbit, Meruvas realized the comet would return every five years, each pass bringing it closer, until the planet’s gravity would inevitably seize it and drag it into a catastrophic collision. His calculations placed the impact in roughly 1100 years or 220 cycles.
 
 Determined on finding a way for their descendants to live on, they set out on getting their people back home. 
 
