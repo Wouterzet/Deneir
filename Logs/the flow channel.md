@@ -9,7 +9,7 @@ The ladder going down has broken halfway through and the players need to find a 
 
 [[Cevira]]: Presently, my assessment is that our plan will either fail disastrously or succeed disastrously.
 
-[[Tharivol]]: Pye, you know I don’t find that funny.
+[[Tharivol]]: Cevira, you know I don’t find that funny.
 
 [[Cevira]]: How curious; Ramie thinks I’m a gas. And I don’t recall requesting that you monitor this conversation, Tharivol.
 
