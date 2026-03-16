@@ -37,6 +37,10 @@ Worked at the [[Energy Lab]] and [[The Deep Current Station]] as part of the [[D
 Worked at the [[Energy Lab]] and helped build the [[Deneir Project]]'s core
  * [[Jassirion]] Root?
 Worked at the [[black hole forge]] along with [[Soriel]] and [[Velthamar]] to create the dimensional portal machines.
+* [[Maruviel]] Mallow?
+Worked at the [[Construct Intelligence Center]], spouse of [[Cymorrel]].
+* [[Cymorrel]] Avens?
+Responsible for testing the cannon of the [[Construct Tracking Module]]and adjusting its launch power.
 ### **Male Names**
 
 - **Aeltharion**
