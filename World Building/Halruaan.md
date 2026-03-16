@@ -33,7 +33,10 @@ worked at [[The Deep Current Station]]. Brother to [[Elvanna]].
 Worked at the [[Construct Intelligence Center]].  Sister of [[Tharivol]].
 * [[Cevira]] Pye?
 Worked at the [[Energy Lab]] and [[The Deep Current Station]] as part of the [[Deneir Project]].
- 
+* [[Ylindra]] Ramie?
+Worked at the [[Energy Lab]] and helped build the [[Deneir Project]]'s core
+ * [[Root]] Root?
+Worked at [[black hole forge]]
 ### **Male Names**
 
 - **Aeltharion**
