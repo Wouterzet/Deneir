@@ -1,7 +1,11 @@
 ### **Cycle 1**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Instability detected. Rift widening beyond containment thresholds.  
@@ -19,7 +23,11 @@ ERROR: Data transfer failed.
 ### **Cycle 2**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Construct Tracking Module is receiving data from dimension [UNKNOWN: “Negative Astral Spillover”].  
@@ -37,7 +45,11 @@ ERROR: Data transfer failed.
 ### **Cycle 3**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Dimensional matter incompatible with Toril base reality.  
@@ -55,8 +67,12 @@ ERROR: Data transfer failed.
 ### **Cycle 4**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
 Dimensional resonance consistent.
+
+
 
 **Second recording**  
 ALERT: Construct Tracking Module reporting lifeforms. Chitin-based exoskeletons. Carnivorous.
@@ -72,7 +88,11 @@ ERROR: Data transfer failed.
 ### **Cycle 5**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Unexpected resonance pattern detected: necrotic spectrum.  
@@ -89,7 +109,11 @@ ERROR: Data transfer failed.
 ### **Cycle 6**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Construct receiving anomalous weather signatures: crystalline precipitation.
@@ -105,7 +129,11 @@ ERROR: Data transfer failed.
 ### **Cycle 7**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Detection of vast biological presence. Unmapped scale.
@@ -121,7 +149,11 @@ ERROR: Data transfer failed.
 ### **Cycle 8**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Detection of corrosive atmosphere. Elements incompatible with carbon life.
@@ -137,7 +169,11 @@ ERROR: Data transfer failed.
 ### **Cycle 9**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**
 ALERT: Anomalous silence. No celestial bodies detected.
@@ -153,7 +189,11 @@ ERROR: Data transfer failed.
 ### **Cycle 10**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**   
 ALERT: Detection of anomalous sound: hymns, discordant, repeating.
@@ -169,7 +209,11 @@ ERROR: Data transfer failed.
 ### **Cycle 11**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Energy spike in entropy measurements.
@@ -185,7 +229,11 @@ ERROR: Data transfer failed.
 ### **Cycle 12**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 Construct detecting anomalous flora. Photosynthetic structures aggressive.
@@ -201,7 +249,11 @@ ERROR: Data transfer failed.
 ### **Cycle 13**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Temperature variance: -138°C.
@@ -217,7 +269,11 @@ ERROR: Data transfer failed.
 ### **Cycle 14**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Construct receiving anomalous vibrations.
@@ -233,7 +289,11 @@ ERROR: Data transfer failed.
 ### **Cycle 15**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Detection of anomalous swarm signatures.
@@ -249,7 +309,11 @@ ERROR: Data transfer failed.
 ### **Cycle 16**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Construct receiving anomalous aurora emissions.
@@ -265,7 +329,11 @@ ERROR: Data transfer failed.
 ### **Cycle 17**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Dimensional overlap detected: fungal signatures.
@@ -281,7 +349,11 @@ ERROR: Data transfer failed.
 ### **Cycle 18**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Construct detecting celestial light anomaly.
@@ -297,7 +369,11 @@ ERROR: Data transfer failed.
 ### **Cycle 19**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Detection of anomalous metallic entities.
@@ -313,7 +389,11 @@ ERROR: Data transfer failed.
 ### **Cycle 20**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Construct receives anomalous sound: water in impossible quantities.
@@ -329,7 +409,11 @@ ERROR: Data transfer failed.
 ### **Cycle 21**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Energy spike: psionic frequencies.
@@ -345,7 +429,11 @@ ERROR: Data transfer failed.
 ### **Cycle 22**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Construct records anomalous insect song.
@@ -361,7 +449,11 @@ ERROR: Data transfer failed.
 ### **Cycle 23**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Detection of anomalous gravitational force.
@@ -376,7 +468,11 @@ ERROR: Data transfer failed.
 ### **Cycle 24**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Construct detecting anomalous shadow movement.
@@ -392,7 +488,11 @@ ERROR: Data transfer failed.
 ### **Cycle 25**
 
 **First recording**
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number} 
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES: 
+
+
 
 **Second recording**
 Construct detecting anomalous heartbeat. Planetary scale.
@@ -408,7 +508,11 @@ ERROR: Data transfer failed.
 ### **Cycle 26**
 
 **First recording**
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**
 ALERT: Construct detects anomalous resonance: mirror-like reflection.
@@ -425,7 +529,11 @@ ERROR: Data transfer failed.
 ### **Cycle 27**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Construct detects anomalous swarm of glass insects.
@@ -441,7 +549,11 @@ ERROR: Data transfer failed.
 ### **Cycle 28**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct. 
+DIMENSIONAL COORDINATES DOCUMENTED. 
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Construct records anomalous atmospheric inversion.
@@ -457,7 +569,11 @@ ERROR: Data transfer failed.
 ### **Cycle 29**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number} 
+BEGIN DIMENSIONAL LOG: Receiving data from construct.
+DIMENSIONAL COORDINATES DOCUMENTED.
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Construct detects anomalous swarm of eyes.
