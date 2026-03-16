@@ -26,12 +26,12 @@ Text and recordings
 ---
 **Orbital Probe Cannon's structural integrity**
 
-[[Maruviel]]: Imagine, [[Elvanna]]: the Probe Tracking Module will be the first to know the coordinates of the Eye of the universe! You’ll be the first to see them!
+[[Maruviel]]: Imagine, [[Elvanna]]: the [[Construct Tracking Module]] will be the first to know the coordinates of our home! You’ll be the first to see them!
 
 [[Elvanna]]: I am honored and terrified!
 
-[[Elvanna]]: You won’t ask the Orbital Probe Cannon to use so much power that it breaks, will you?
+[[Elvanna]]: You won’t ask the [[Construct Intelligence Center]] to use so much power that it breaks, will you?
 
-[[Maruviel]]: Fret not, my nervous friend! We only need to fire the probe once, anyway, so who minds if it compromises the Orbital Probe Cannon’s structural integrity slightly?
+[[Maruviel]]: Fret not, my nervous friend! We only need to fire the probe once, anyway, so who minds if it compromises the [[Construct Intelligence Center]]’s structural integrity slightly?
 
-[[Elvanna]]: I would mind, [[Maruviel]]! I would mind, because we won’t be capable of receiving our probe’s data if the Probe Tracking Module is destroyed!
+[[Elvanna]]: I would mind, [[Maruviel]]! I would mind, because we won’t be capable of receiving our construct’s data if the [[Construct Tracking Module]] is destroyed!
