@@ -4,7 +4,7 @@
 
 Text and recordings
 --
-**Orbital Probe Cannon put on hold**
+**Construct Intellegence Center put on hold**
 
 [[Orlathis]]: I have bad news, [[Cymorrel]]. Yarrow says there was a problem with the proposed power source, so the [[Construct Intelligence Center]] won’t be asked to fire.
 
@@ -12,6 +12,6 @@ Text and recordings
 
 [[Orlathis]]: I wish I were, my friend, but no. They aren’t certain they can fix the problem, so the [[Construct Intelligence Center]] is on indefinite hiatus.
 
-[[Orlathis]]: Tell Privet and Mallow they should return from the cannon. My spouse and I will remain at the Construction Yard, for now.
+[[Orlathis]]: Tell [[Elvanna]] and [[Maruviel]] they should return from the cannon. My spouse and I will remain at the Construction Yard, for now.
 
-[[Cymorrel]]: An update: Mallow and I will join you and Daz. Privet left to visit her brother. She fears Idaea may feel responsible.
+[[Cymorrel]]: An update: [[Maruviel]] and I will join you and [[Zeruvan]]. [[Elvanna]] left to visit her brother. She fears [[Tharivol]] may feel responsible.
