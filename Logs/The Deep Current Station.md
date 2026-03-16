@@ -46,5 +46,9 @@ PYE: I don’t know what comes next, my friends. We may need to find another way
 
 [[Ilmarros]]: Pye… I truly feel for you both. Everyone knows how much effort you and Idaea poured into this project. I can only offer my sympathy. How are you holding up? And Idaea?
 
-[[Tharivol]]: We are… managing, Ilmarros. As well as can be expected, given everything. Disappointed, certainly. I argued against building something this dangerous in the first place, but even so… I never hoped it would fail.\ I believed that once it was done, our terrible work would finally be behind us.
+[[Tharivol]]: We are… managing, Ilmarros. As well as can be expected, given everything. Disappointed, certainly.
+
+[[Tharivol]]: I argued against building something this dangerous in the first place, but even so… I never hoped it would fail.
+
+[[Tharivol]]: I believed that once it was done, our terrible work would finally be behind us.
 

@@ -31,7 +31,9 @@ worked with [[Velthamar]] and [[Root]] at the [[black hole forge]].
 worked at [[The Deep Current Station]]. Brother to [[Elvanna]].
 * [[Elvanna]] Privet?
 Worked at the [[Construct Intelligence Center]].  Sister of [[Tharivol]].
-
+* [[Cevira]] Pye?
+Worked at the [[Energy Lab]] and [[The Deep Current Station]] as part of the [[Deneir Project]].
+ 
 ### **Male Names**
 
 - **Aeltharion**
