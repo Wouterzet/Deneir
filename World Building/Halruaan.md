@@ -23,7 +23,8 @@ The original inventor of the dimensional portals. Lost her life in a tragic acci
 Partner of [[Vaerys]]. Continued and completed her study on dimensional portals.
 - [[Meruvas]]
 Studied the [[Skyfire Comet]] and discoverd its orbit will collide with the planet.
-* [[Ilmarros]]
+* [[Ilmarros]] Yarrow?
+* [[Soriel]] Clary?
 
 
 
