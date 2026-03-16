@@ -17,8 +17,10 @@ Even as magic was seeped in every aspect of Halruaan life, they left their own m
 
 
 **List of Halruaans**
-- [[Vaerys]]
+- [[Vaerys]] Annona?
 The original inventor of the dimensional portals. Lost her life in a tragic accident.
-- [[Velthamar]] 
+- [[Velthamar]] Poke?
 Partner of [[Vaerys]]. Continued and completed her study on dimensional portals.
 - [[Meruvas]]
+Studied the [[Skyfire Comet]] and discoverd its orbit will collide with the planet.
+* *

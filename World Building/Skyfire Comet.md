@@ -1,0 +1,1 @@
+The skyfire comet is in a 5 year orbit around the sun. The astrophisicist [[Meruvas]] discovered that its orbit is not stable but will collide with the planet in 220 cycles.
