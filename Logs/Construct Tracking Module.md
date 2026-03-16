@@ -16,15 +16,15 @@ The ceiling is unstable and after the launch of the construct the entire module 
 
 Text and recordings
 --
-**Ash Twin Project and probe**
+Deneir Project and construct**
 
 [[Ilmarros]]: I have exciting news, [[Elvanna]]: The [[Deneir Project]] is almost prepared to receive the construct data from the [[Construct Intelligence Center]].
 
 [[Ilmarros]]: [[Ylindra]] is adding some finishing touches here, but she’ll be finished soon. Are you and the [[Construct Intelligence Center]] well?
 
-[[Elvanna]]: We are! The [[Construct Tracking Module]] is ready to record each launch’s environmental data and will automatically transmit all relevant data to you.
+[[Elvanna]]: We are! The [[Construct Tracking Module]] is ready to record each launch’s environmental data and will automatically transmit all relevant measurements to you.
 
-[[Elvanna]]: Once the probe determines the location of the Eye of the universe, I’ll send an alert directly to you and Ramie.
+[[Elvanna]]: Once the construct determines the location of [[Toril]], I’ll send an alert directly to you and [[Ylindra]].
 
 [[Elvanna]]: On the other appendage, I’m now worried about this cannon’s structural integrity and its crew’s moral integrity.
 
