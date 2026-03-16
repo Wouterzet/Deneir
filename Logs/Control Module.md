@@ -6,7 +6,7 @@ Text and recordings
 --
 **Construct Intellegence Center put on hold**
 
-[[Orlathis]]: I have bad news, [[Cymorrel]]. Yarrow says there was a problem with the proposed power source, so the [[Construct Intelligence Center]] won’t be asked to fire.
+[[Orlathis]]: I have bad news, [[Cymorrel]]. [[Ilmarros]] says there was a problem with the proposed power source, so the [[Construct Intelligence Center]] won’t be asked to fire.
 
 [[Cymorrel]]: I hope you’re pulling my locomotive limb here, [[Orlathis]].
 

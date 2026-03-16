@@ -52,15 +52,25 @@ A scientist working at the [[Toril Observatory]], along with [[Olyssane]].
 
 ### **Male Names**
 
-- **Aeltharion**
-- **Meruvas**
-- **Tharivol**
-- **Jassirion**
-- **Cymorrel**
-- **Velthamar**
-- **Orlathis**
-- **Zeruvan**
-- **Ilmarros**
+- [x] **Aeltharion**
+- [x] **Meruvas**
+- [x] **Tharivol**
+- [x] **Jassirion**
+- [x] **Cymorrel**
+- [x] **Velthamar**
+- [x] **Orlathis**
+- [x] **Zeruvan**
+- [x] **Ilmarros**
+- [x] **Aruviel
+- [ ] **Thalior
+- [ ] **Cyrandel**
+- [ ] **Vaerthus
+- [ ] **Elyndor
+- [ ] **Morvian
+- [ ] **Seltharion
+- [ ] **Druvanel
+- [ ] **Lorvathis**
+- [ ] Zytherion
 ### **Female Names**
 
 - **Selyra**
@@ -72,6 +82,16 @@ A scientist working at the [[Toril Observatory]], along with [[Olyssane]].
 - **Elvanna**
 - **Soriel**
 - **Vaerys**
+- - **Alyssara**
+- **Vaelindra**
+- **Myrrielle**
+- **Selviane**
+- **Thyraele**
+- **Cevyra**
+- **Oryndra**
+- **Ilvessia**
+- **Faelyra**
+- **Zorynith**
 ### **Family / Lineage Names**
 
 (Think: lofty, arcane, sky-oriented, sometimes compound names)
