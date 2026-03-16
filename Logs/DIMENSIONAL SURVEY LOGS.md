@@ -473,7 +473,11 @@ ERROR: Data transfer failed.
 ### **Cycle 30**
 
 **First recording**  
-BEGIN DIMENSIONAL LOG: Receiving data from construct {number}
+BEGIN DIMENSIONAL LOG: Receiving data from construct.
+DIMENSIONAL COORDINATES DOCUMENTED.
+PRINTING DIMENSIONAL COORDINATES:
+
+
 
 **Second recording**  
 ALERT: Construct detects anomalous temporal signatures.

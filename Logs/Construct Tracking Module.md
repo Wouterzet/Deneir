@@ -29,3 +29,4 @@ Deneir Project and construct**
 [[Elvanna]]: On the other appendage, I’m now worried about this cannon’s structural integrity and its crew’s moral integrity.
 
 ---
+[[DIMENSIONAL SURVEY LOGS]]
