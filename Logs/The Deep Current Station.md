@@ -17,13 +17,27 @@ ERROR 51: Requested load exceeds energy stockpile.
 Directing power to {station 0002}.
 
 ---
-Sun Station failed
-YARROW: What happened? Did the Sun Station not fire?
+Deep Current Station Failed
 
-PYE: It fired, Yarrow. But it failed. The sun barely responded; there were infintestimally small surface-level changes, but they were barely visible, even to the third eye.
-PYE: The Sun Station is useless. It will never, and could never, cause the sun to explode.
-PYE: I don’t know what comes next, my friends. I suppose we must start over, but I’m unsure how to start over.
-YARROW: Return to Ash Twin first, my friend. Perhaps a change of task would help: Spire noticed a comet approaching this star system that we’d like to investigate.
-YARROW: Pye... I hurt for you, my friends; we all know how hard you’ve both worked. I can only offer my compassion. How are you? How is Idaea?
-IDAEA: We’re well, Yarrow (or as well as can be expected, given the circumstances), though disappointed. I may have disagreed with exploding the sun, but I never wished the device would fail. I’d hoped our terrible work was finished.
+[[Ilmarros]]: Pye, I’m reading the Deep Current Station’s output. The energy intake is… almost nothing. What happened?
+
+PYE: No, Ilmarros. It activated. The turbines turned and the water flowed just as we designed. But it still failed.
+
+PYE: The station is generating power, but the rate is far too slow. Don't get me wrong, it is a considarable about of energy, just not compared to what we need.
+
+PYE: At this rate… the station will never gather the power we need. Or rather, it will, but not in any time that matters to us.
+
+PYE: The calculations are clear. It would take over a millennium to accumulate enough energy.
+
+PYE: None of us will live to see it.
+
+PYE: I don’t know what comes next, my friends. We may need to begin again, though I cannot imagine where to start.
+
+[[Ilmarros]]: Pye… I truly feel for you both. Everyone knows how much effort you and Idaea poured into this project. I can only offer my sympathy. How are you holding up? And Idaea?
+
+IDAEA: We are… managing, Yarrow. As well as can be expected, given everything. Disappointed, certainly.
+
+IDAEA: I argued against building something this dangerous in the first place, but even so… I never hoped it would fail.
+
+IDAEA: I believed that once it was done, our terrible work would finally be behind us.
 
