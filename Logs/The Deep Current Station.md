@@ -19,32 +19,32 @@ Directing power to {station 0002}.
 ---
 **Deep Current Station purpose**
 
-PYE: Mission: Science compels us to destroy the world!
+[[Cevira]]: Mission: Science compels us to destroy the world!
 
 [[Tharivol]]: Can’t we change this? I don’t enjoy working in view of such a morbid mission statement.
 
-PYE: But it’s accurate. We’re going to destroy the world for the purpose of scientific progress. That’s our mission.
+[[Cevira]]: But it’s accurate. We’re going to destroy the world for the purpose of scientific progress. That’s our mission.
 
 [[Tharivol]]: Our mission is to decide if such an irresponsible feat is even possible.
 
 ---
 Deep Current Station Delay
 
-[[Ilmarros]]: Pye, I’m reading the Deep Current Station’s output. The energy intake is… almost nothing. What happened?
+[[Ilmarros]]: Cevira, I’m reading the Deep Current Station’s output. The energy intake is… almost nothing. What happened?
 
-PYE: No, Ilmarros. It activated. The turbines turned and the water flowed just as we designed. But it still failed.
+[[Cevira]]: No, Ilmarros. It activated. The turbines turned and the water flowed just as we designed. But it still failed.
 
-PYE: The station is generating power, but the rate is far too slow. Don't get me wrong, it's an enormous amount of energy, just not compared to what we need.
+[[Cevira]]: The station is generating power, but the rate is far too slow. Don't get me wrong, it's an enormous amount of energy, just not compared to what we need.
 
-PYE: At this rate… the station will never gather the power we need. Or rather, it will, but not in any time that matters to us.
+[[Cevira]]: At this rate… the station will never gather the power we need. Or rather, it will, but not in any time that matters to us.
 
-PYE: The calculations are clear. It would take over a millennium to accumulate enough energy.
+[[Cevira]]: The calculations are clear. It would take over a millennium to accumulate enough energy.
 
-PYE: None of us will live to see it.
+[[Cevira]]: None of us will live to see it.
 
-PYE: I don’t know what comes next, my friends. We may need to find another way, though I cannot imagine where to start.
+[[Cevira]]: I don’t know what comes next, my friends. We may need to find another way, though I cannot imagine where to start.
 
-[[Ilmarros]]: Pye… I truly feel for you both. Everyone knows how much effort you and Idaea poured into this project. I can only offer my sympathy. How are you holding up? And Idaea?
+[[Ilmarros]]: Cevira… I truly feel for you both. Everyone knows how much effort you and Tharivol poured into this project. I can only offer my sympathy. How are you holding up? And Tharivol?
 
 [[Tharivol]]: We are… managing, Ilmarros. As well as can be expected, given everything. Disappointed, certainly.
 
