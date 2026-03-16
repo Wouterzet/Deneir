@@ -52,3 +52,5 @@ Deep Current Station Delay
 
 [[Tharivol]]: I believed that once it was done, our terrible work would finally be behind us.
 
+[[Ilmarros]]: Return to the [[warp station]] first, my friend. Perhaps a change of task would help: Spire noticed a comet approaching this star system that we’d like to investigate.
+

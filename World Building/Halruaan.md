@@ -45,6 +45,10 @@ Responsible for testing the cannon of the [[Construct Intelligence Center]] and 
 Worked at the [[Construct Intelligence Center]]. Husband to [[Zeruvan]]. Brother in law to [[Cymorrel]].
 * [[Zeruvan]] Daz
 Made the ancient halruaan pillars in the [[Pillar Workshop]]. Brother of [[Cymorrel]] and husband of [[Orlathis]].
+* [[Olyssane]] Spire
+A scientist working at the [[Toril Observatory]], along with [[Conoy]].
+* [[Conoy]] Conoy
+A scientist working at the [[Toril Observatory]], along with [[Olyssane]].
 
 ### **Male Names**
 
