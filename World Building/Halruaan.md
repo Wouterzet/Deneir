@@ -26,7 +26,7 @@ Studied the [[Skyfire Comet]] and discoverd its orbit will collide with the plan
 * [[Ilmarros]] Yarrow?
 Worked on the [[Deneir Project]] and oversaw other projects as well.
 * [[Soriel]] Clary?
-worked with [[Velthamar]] and [[Root]] at the [[black hole forge]].
+worked with [[Velthamar]] and [[Jassirion]] at the [[black hole forge]].
 * [[Tharivol]] Idaea?
 worked at [[The Deep Current Station]]. Brother to [[Elvanna]].
 * [[Elvanna]] Privet?
@@ -35,8 +35,8 @@ Worked at the [[Construct Intelligence Center]].  Sister of [[Tharivol]].
 Worked at the [[Energy Lab]] and [[The Deep Current Station]] as part of the [[Deneir Project]].
 * [[Ylindra]] Ramie?
 Worked at the [[Energy Lab]] and helped build the [[Deneir Project]]'s core
- * [[Root]] Root?
-Worked at [[black hole forge]]
+ * [[Jassirion]] Root?
+Worked at the [[black hole forge]] along with [[Soriel]] and [[Velthamar]] to create the dimensional portal machines.
 ### **Male Names**
 
 - **Aeltharion**
