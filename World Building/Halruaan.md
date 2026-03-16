@@ -46,8 +46,8 @@ Worked at the [[Construct Intelligence Center]]. Husband to [[Zeruvan]]. Brother
 * [[Zeruvan]] Daz
 Made the ancient halruaan pillars in the [[Pillar Workshop]]. Brother of [[Cymorrel]] and husband of [[Orlathis]].
 * [[Olyssane]] Spire
-A scientist working at the [[Toril Observatory]], along with [[Conoy]].
-* [[Conoy]] Conoy
+A scientist working at the [[Toril Observatory]], along with [[Thalior]].
+* [[Thalior]] Conoy
 A scientist working at the [[Toril Observatory]], along with [[Olyssane]].
 
 ### **Male Names**
@@ -73,25 +73,25 @@ A scientist working at the [[Toril Observatory]], along with [[Olyssane]].
 - [ ] Zytherion
 ### **Female Names**
 
-- **Selyra**
-- **Thariel**
-- **Olyssane**
-- **Maruviel**
-- **Yllindra**
-- **Cevira**
-- **Elvanna**
-- **Soriel**
-- **Vaerys**
-- - **Alyssara**
-- **Vaelindra**
-- **Myrrielle**
-- **Selviane**
-- **Thyraele**
-- **Cevyra**
-- **Oryndra**
-- **Ilvessia**
-- **Faelyra**
-- **Zorynith**
+- [ ] **Selyra**
+- [ ] **Thariel**
+- [x] **Olyssane**
+- [x] **Maruviel**
+- [x] **Yllindra**
+- [x] **Cevira**
+- [x] **Elvanna**
+- [x] **Soriel**
+- [x] **Vaerys**
+- [ ] - **Alyssara**
+- [ ] **Vaelindra**
+- [ ] **Myrrielle**
+- [ ] **Selviane**
+- [ ] **Thyraele**
+- [ ] **Cevyra**
+- [ ] **Oryndra**
+- [ ] **Ilvessia**
+- [ ] **Faelyra**
+- [ ] **Zorynith**
 ### **Family / Lineage Names**
 
 (Think: lofty, arcane, sky-oriented, sometimes compound names)
