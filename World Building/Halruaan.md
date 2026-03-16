@@ -40,7 +40,12 @@ Worked at the [[black hole forge]] along with [[Soriel]] and [[Velthamar]] to cr
 * [[Maruviel]] Mallow?
 Worked at the [[Construct Intelligence Center]], spouse of [[Cymorrel]].
 * [[Cymorrel]] Avens?
-Responsible for testing the cannon of the [[Construct Tracking Module]]and adjusting its launch power.
+Responsible for testing the cannon of the [[Construct Intelligence Center]] and adjusting its launch power.
+* [[Orlathis]] Cassava
+Worked at the [[Construct Intelligence Center]]. Husband to [[Zeruvan]]. Brother in law to [[Cymorrel]].
+* [[Zeruvan]] Daz
+Made the ancient halruaan pillars in the [[Pillar Workshop]]. Brother of [[Cymorrel]] and husband of [[Orlathis]].
+
 ### **Male Names**
 
 - **Aeltharion**
