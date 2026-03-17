@@ -17,29 +17,29 @@ Even as magic was seeped in every aspect of Halruaan life, they left their own m
 
 
 **List of Halruaans**
-- [[Vaerys]] Annona?
+- [[Vaerys]] Annona
 The original inventor of the dimensional portals. Lost her life in a tragic accident.
-- [[Velthamar]] Poke?
+- [[Velthamar]] Poke
 Partner of [[Vaerys]]. Continued and completed her study on dimensional portals.
-- [[Meruvas]]
+- [[Meruvas]] 
 Studied the [[Skyfire Comet]] and discoverd its orbit will collide with the planet.
-* [[Ilmarros]] Yarrow?
+* [[Ilmarros]] Yarrow
 Worked on the [[Deneir Project]] and oversaw other projects as well.
-* [[Soriel]] Clary?
+* [[Soriel]] Clary
 worked with [[Velthamar]] and [[Jassirion]] at the [[black hole forge]].
-* [[Tharivol]] Idaea?
+* [[Tharivol]] Idaea
 worked at [[The Deep Current Station]]. Brother to [[Elvanna]].
-* [[Elvanna]] Privet?
+* [[Elvanna]] Privet
 Worked at the [[Construct Intelligence Center]].  Sister of [[Tharivol]].
-* [[Cevira]] Pye?
+* [[Cevira]] Pye
 Worked at the [[Energy Lab]] and [[The Deep Current Station]] as part of the [[Deneir Project]].
-* [[Ylindra]] Ramie?
+* [[Ylindra]] Ramie
 Worked at the [[Energy Lab]] and helped build the [[Deneir Project]]'s core
- * [[Jassirion]] Root?
+ * [[Jassirion]] Root
 Worked at the [[black hole forge]] along with [[Soriel]] and [[Velthamar]] to create the dimensional portal machines.
-* [[Maruviel]] Mallow?
+* [[Maruviel]] Mallow
 Worked at the [[Construct Intelligence Center]], spouse of [[Cymorrel]].
-* [[Cymorrel]] Avens?
+* [[Cymorrel]] Avens
 Responsible for testing the cannon of the [[Construct Intelligence Center]] and adjusting its launch power.
 * [[Orlathis]] Cassava
 Worked at the [[Construct Intelligence Center]]. Husband to [[Zeruvan]]. Brother in law to [[Cymorrel]].
