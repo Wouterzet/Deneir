@@ -1,3 +1,3 @@
 - Named after their lost planet, the Halruaan build an observatory to look for their lost home.
 - The Halruaan discovered that their star system was located exactly where Toril was supposed to be.
-- Annie's hill isnt a hill at all
+- Annie's hill isnt a hill at all. It is the observatory dome with grass growing over it.
