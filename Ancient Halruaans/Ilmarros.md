@@ -1,2 +1,0 @@
-Ilmarros Myrralen, [[Halruaan]] (He/Him), married to [[Soriel]] Deceased
-Ilmarros worked on the [[Deneir Project]]. In addition he regularly checked in with other critical project locations. [[Soriel]], who worked at the ...(black hole forge) was his romantic partner.

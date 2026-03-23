@@ -9,7 +9,7 @@ An atropal can summon vestiges of creatures that died in the Negative Plane, whi
 Undead Nature. An atropal doesn't require air, food, drink, or sleep.
 
 
-# The Atropal of Nimbral
+# The Atropal of Nimbral (Loop Variant)
 
 _Huge undead (titan), neutral evil_
 

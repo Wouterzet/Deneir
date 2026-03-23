@@ -1,3 +1,3 @@
-Vaerys Velthorn, [[Halruaan]] (She/Her), married to [[Velthamar]]. Deceased
+Vaerys Velthorn, [[Halruaan]] (He/Him), married to [[Velthamar]]. Deceased
 
 A particularly gifted Halruaan named Vaerys invented a new portal spell that didn't link to other places, planes or planets but other dimensions. However these portals were not limited to being created in unoccupied space, as opposed to regular portals. With no way of knowing what lay on the other side, the risks were catastrophic. Vaerys paid with her life when one such portal unleashed an endless torrent of lava into her chamber. The flood ceased only when the portal collapsed and other mages arrived to contain and cool the molten flow. Though Vaerys was lost, her research survived, and the mages were able to preserve her work.
