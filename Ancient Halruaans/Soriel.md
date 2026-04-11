@@ -1,0 +1,2 @@
+Soriel Myrralen, [[Halruaan]] (She/Her), married to [[Ilmarros]]. Deceased
+Soriel was a [[Halruaan]] who worked with [[Velthamar]] and [[Jassirion]] in the [[black hole forge]]. She was the sister of [[Velthamar]] and the partner of [[Ilmarros]].

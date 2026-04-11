@@ -14,3 +14,93 @@ On the island of Nimbral, especially at the Deneir project, the Halruaans used a
 Halruaa and magic were linked with one another. Halruaans considered it a mark of honor and prestige to excel in the arcane arts, the mastery of which was viewed as the pinnacle of accomplishment. Interstingly enough, even the poorest commoner could cast simple spells. Magical flair was less important in the rural areas, where magic was valued more for it's pragmatic, every-day use. Despite this small difference, magic was an aspect of daily use whether in the items they used, their transportation and even how they cooked and traveled.
 
 Even as magic was seeped in every aspect of Halruaan life, they left their own mark on the magical arts as a whole. It is said every kind of magic that is practiced has been researched, altered, improved and even perfected at one time or another by the Halruaan.
+
+
+**List of Halruaans**
+- [[Vaerys]] Annona
+The original inventor of the dimensional portals. Lost her life in a tragic accident.
+- [[Velthamar]] Poke
+Partner of [[Vaerys]]. Continued and completed her study on dimensional portals.
+- [[Meruvas]] 
+Studied the [[Skyfire Comet]] and discoverd its orbit will collide with the planet.
+* [[Ilmarros]] Yarrow
+Worked on the [[Deneir Project]] and oversaw other projects as well.
+* [[Soriel]] Clary
+worked with [[Velthamar]] and [[Jassirion]] at the [[black hole forge]].
+* [[Tharivol]] Idaea
+worked at [[The Deep Current Station]]. Brother to [[Elvanna]].
+* [[Elvanna]] Privet
+Worked at the [[Construct Intelligence Center]].  Sister of [[Tharivol]].
+* [[Cevira]] Pye
+Worked at the [[Energy Lab]] and [[The Deep Current Station]] as part of the [[Deneir Project]].
+* [[Ylindra]] Ramie
+Worked at the [[Energy Lab]] and helped build the [[Deneir Project]]'s core
+ * [[Jassirion]] Root
+Worked at the [[black hole forge]] along with [[Soriel]] and [[Velthamar]] to create the dimensional portal machines.
+* [[Maruviel]] Mallow
+Worked at the [[Construct Intelligence Center]], spouse of [[Cymorrel]].
+* [[Cymorrel]] Avens
+Responsible for testing the cannon of the [[Construct Intelligence Center]] and adjusting its launch power.
+* [[Orlathis]] Cassava
+Worked at the [[Construct Intelligence Center]]. Husband to [[Zeruvan]]. Brother in law to [[Cymorrel]].
+* [[Zeruvan]] Daz
+Made the ancient halruaan pillars in the [[Pillar Workshop]]. Brother of [[Cymorrel]] and husband of [[Orlathis]].
+* [[Olyssane]] Spire
+A scientist working at the [[Toril Observatory]], along with [[Thalior]].
+* [[Thalior]] Conoy
+A scientist working at the [[Toril Observatory]], along with [[Olyssane]].
+
+### **Male Names**
+
+- [x] **Aeltharion**
+- [x] **Meruvas**
+- [x] **Tharivol**
+- [x] **Jassirion**
+- [x] **Cymorrel**
+- [x] **Velthamar**
+- [x] **Orlathis**
+- [x] **Zeruvan**
+- [x] **Ilmarros**
+- [x] **Aruviel
+- [ ] **Thalior
+- [ ] **Cyrandel**
+- [ ] **Vaerthus
+- [ ] **Elyndor
+- [ ] **Morvian
+- [ ] **Seltharion
+- [ ] **Druvanel
+- [ ] **Lorvathis**
+- [ ] Zytherion
+### **Female Names**
+
+- [ ] **Selyra**
+- [ ] **Thariel**
+- [x] **Olyssane**
+- [x] **Maruviel**
+- [x] **Yllindra**
+- [x] **Cevira**
+- [x] **Elvanna**
+- [x] **Soriel**
+- [x] **Vaerys**
+- [ ] - **Alyssara**
+- [ ] **Vaelindra**
+- [ ] **Myrrielle**
+- [ ] **Selviane**
+- [ ] **Thyraele**
+- [ ] **Cevyra**
+- [ ] **Oryndra**
+- [ ] **Ilvessia**
+- [ ] **Faelyra**
+- [ ] **Zorynith**
+### **Family / Lineage Names**
+
+(Think: lofty, arcane, sky-oriented, sometimes compound names)
+
+- **Dathmir** (“star-thought”)
+- **Velthorn**
+- **Myrralen**
+- **Zorynth**
+- **Thalruen**
+- **Ilvessar**
+- **Orrindral**
+- **Faelithor**
