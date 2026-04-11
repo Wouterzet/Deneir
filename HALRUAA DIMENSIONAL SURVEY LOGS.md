@@ -49,7 +49,7 @@ PRINTING DIMENSIONAL COORDINATES:
 
 **Second recording**  
 ALERT: Dimensional matter incompatible with Toril base reality.  
-Gravitational shear forming at 12:01.
+Gravitational shear forming at 12:01:10.
 
 **Third recording**  
 EVENT TERMINUS LOG: Black ocean floods through aperture.  
