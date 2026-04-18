@@ -23,8 +23,8 @@ PLUME: [[Orlathis]], how can you suggest that? The Eye’s signal called out to 
 [[Thalior]]: What have we learned thus far in our search for Toril?
 
 [[Maruviel]]: Based on our records of Toril's celestial maps and this world's star chart, we believe Toril to be in orbit around a very nearby star. We would say that it orbits our current sun but we haven't been able to observe it.
-[[Elvanna]]: The locator we built on the Attlerock and the new, more sensitive locator we built here were both unable to detect any trace of the Eye’s signal.
-[[Cymorrel]]: Hypothesis: The Eye has stopped emitting its signal.
-[[Orlathis]]: Suppose the Eye doesn’t wish to be found.
-PLUME: [[Orlathis]], how can you suggest that? The Eye’s signal called out to summon us to this star system!
-[[Orlathis]]: I’m aware; I grew up hearing the Eye’s story. Yet we’re no closer to finding it than you were when you first arrived here.
+[[Elvanna]]: The telescope we built in Ormen and the new, better telescope we built here were both unable to observe any trace of Toril.
+[[Cymorrel]]: Hypothesis: Toril has become transparent.
+[[Orlathis]]: Suppose Toril no longer exists.
+PLUME: [[Orlathis]], how can you suggest that? You want to just give up hope!?
+[[Orlathis]]: I don't; I grew up hearing about Toril. Yet we’re no closer to finding it than you were when you first arrived here.
