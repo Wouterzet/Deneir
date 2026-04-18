@@ -2,7 +2,7 @@ The players find themselves stranded on the island of [[Nimbral]] after a sudden
 
 They live out their first ordinary day, getting to know the townsfolk and exploring the village. Only to tragically watch everyone get slaughtered by an giant portal above the town which kills them all too. Until they feel the warmth of a rising sun on their face. As they open their eyes they see the sun rise above the rolling hills around Deneir village.
 
-The town gets wiped out by a cataclysmic event at the end of every day. Only for the players to wake up at the start of the day, like it was all a dream. At 12:00 pm every night a dimensional portal opens in the village, bringing with it a catastrophic disaster every time. 
+The town gets wiped out by a cataclysmic event at the end of every day. Only for the players to wake up at the start of the day, like it was all a dream. At 00:00 every night a dimensional portal opens in the village, bringing with it a catastrophic disaster every time. 
 
 **What is happening:**
 At some point during the Spellplague, the island of [[Nimbral]] vanished without a trace. The entire island got somehow teleported to a different dimension, with seemingly no way to return back to the world of [[Toril]].
@@ -87,12 +87,17 @@ The island is situated on a planet with nothing other than water. The sun create
 
 The Halruaan had no choice other than waiting for the [[Gateway Station]] to slowly be charged by the planets tides. In the time between the Halruaan people waiting and when the party appeared, something happened to the Halruaan people or they just forgot/didn't have to bother. 
 
+
 **Time on the island**
+
 The year the island was swallowed up was 1385 DR at the start of the spellplague
 The year the party left the world of toril was 1483 DR.
+The year they enter the island of Nimbral it is the year 2585 DR there. 
+1200 years have passed on the island on this new planet while 98 years have passed on toril.
+24 hours is about 2 hours on Toril.
+Scaling is about 1:12.25
 
-DR staat voor Dale Reckoning en wordt gebruikt net zoals AD staat voor Anno Domini.
-
+DR staat voor Dale Reckoning en wordt gebruikt net zoals AD wat staat voor Anno Domini.
 
 
 **Order to completion**
@@ -115,4 +120,4 @@ DR staat voor Dale Reckoning en wordt gebruikt net zoals AD staat voor Anno Domi
 - Warp [[Nimbral]] back to [[Toril]]
 
 Things of note:
-The comet will destroy Nimbral on the second day of the skyfire festival. After taking out the warp core (and thus being able to go past 12:00pm) the players have some extra time compared to normally to defeat the Atropal and teleport the island back to Toril.
+The comet will destroy Nimbral at 05:00 on the second day of the skyfire festival. After taking out the warp core (and thus being able to go past 00:00) the players have some extra time compared to normally to defeat the Atropal and teleport the island back to Toril.
