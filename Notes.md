@@ -87,6 +87,12 @@ The island is situated on a planet with nothing other than water. The sun create
 
 The Halruaan had no choice other than waiting for the [[Gateway Station]] to slowly be charged by the planets tides. In the time between the Halruaan people waiting and when the party appeared, something happened to the Halruaan people or they just forgot/didn't have to bother. 
 
+**Time on the island**
+The year the island was swallowed up was 1385 DR at the start of the spellplague
+The year the party left the world of toril was 1483 DR.
+
+DR staat voor Dale Reckoning en wordt gebruikt net zoals AD staat voor Anno Domini.
+
 
 
 **Order to completion**
