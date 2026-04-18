@@ -49,7 +49,10 @@ Made the ancient halruaan pillars in the [[Pillar Workshop]]. Brother of [[Cymor
 A scientist working at the [[Toril Observatory]], along with [[Thalior]].
 * [[Thalior]] Conoy
 A scientist working at the [[Toril Observatory]], along with [[Olyssane]].
-* [[]]
+* [[Plumor]] Plume
+Build the [[Toril Observatory]]. Father of [[Cyrandel]]
+* [[Cyrandel]] Phlox
+Scientist and Craftsman who created the [[Halruaan Memory Pillars]].
 
 ### **Male Names**
 
@@ -63,8 +66,8 @@ A scientist working at the [[Toril Observatory]], along with [[Olyssane]].
 - [x] **Zeruvan**
 - [x] **Ilmarros**
 - [x] **Aruviel
-- [ ] **Thalior
-- [ ] **Cyrandel**
+- [x] **Thalior
+- [x] **Cyrandel**
 - [ ] **Vaerthus
 - [ ] **Elyndor
 - [ ] **Morvian

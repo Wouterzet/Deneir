@@ -22,7 +22,7 @@ Knowledge of Toril
 
 [[Orlathis]]: Suppose Toril no longer exists.
 
-PLUME: [[Orlathis]], how can you suggest that? You want to just give up hope!?
+[[Plumor]]: [[Orlathis]], how can you suggest that? You want to just give up hope!?
 
 [[Orlathis]]: I don't; I still want to go back. Yet we’re no closer to finding it than you were when you first arrived here.
 
