@@ -83,7 +83,7 @@ If a pillar were to lose synchronization with a user (in case of death or simila
 
 **Energy creation on the island.** 
 
-The island is situated on a planet with nothing other than water. The sun creates a tide that moves around the planet. The Halruaan people made tidal turbines below the island that slowly powered the [[Gateway Station]]. This was called [[The Deep Current Station]]. This station is where the turbines are that use the water coming in from [[the flow channel]] to generate power.
+The island is situated on a planet with nothing other than water. The sun creates a tide that moves around the planet. The Halruaan people made tidal turbines below the island that slowly powered the [[Gateway Station]]. This was called [[The Deep Current Station]]. This station is where the turbines are that use the water coming in from [[The flow channel]] to generate power.
 
 The Halruaan had no choice other than waiting for the [[Gateway Station]] to slowly be charged by the planets tides. In the time between the Halruaan people waiting and when the party appeared, something happened to the Halruaan people or they just forgot/didn't have to bother. 
 

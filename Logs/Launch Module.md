@@ -1,4 +1,4 @@
-- The cannon for the launch module is located right under the shed of Annie's Hill.
+- The cannon for the launch module is located right under the shed of Yaga's Farm.
 
 
 The Launching of the construct explodes Mama Yaga's shed everytime a portal opens. 
