@@ -9,6 +9,7 @@ They can also find 2 windposts there about the Halruaan's ongoing search for Tor
 One covers what th
 
 
+
 Knowledge of Toril
 
 [[Thalior]]: What have we learned thus far in our search for Toril?
@@ -29,19 +30,6 @@ PLUME: [[Orlathis]], how can you suggest that? You want to just give up hope!?
 
 New methods to search for the Eye
 
-[[Thalior]]: How should our methods change as we continue our search for the Eye of the universe?
-
-[[Elvanna]]: As we couldn’t find the Eye’s signal using two different devices built for this exact purpose, we should discontinue this search method.
-[[Maruviel]]: We know what the Eye looks like thanks to the Quantum Moon, so what if we try to find the Eye visually, instead? Let’s send out a probe!
-[[Orlathis]]: [[Maruviel]]’s idea is clever, but we have no idea where the Eye is in relation to here. The probability of launching a probe in the correct direction would be absurdly small.
-[[Thalior]]: I believe I have a solution for that problem! Have you spoken with Ramie and Pye about the technology they’re developing?
-[[Cymorrel]]: We’d need to build a probe-launching mechanism to cover those long distances quickly. A cannon in orbit around a celestial body would circumvent the need to escape gravity’s pull.
-[[Orlathis]]: Giant’s Deep would be a good choice. It’s furthest from the sun, so it would provide the best angles for launch. And it’s moonless (except when the Quantum Moon is visiting).
-[[Cymorrel]]: Yes, let’s build the cannon in orbit around Giant’s Deep!
-
-
-New methods to search for the Eye
-
 [[Thalior]]: How should our methods change as we continue our search for Toril?
 
 [[Elvanna]]: As we couldn’t find Toril’s using two different telescopes built for this exact purpose, we should discontinue this search method.
@@ -52,8 +40,8 @@ New methods to search for the Eye
 
 [[Thalior]]: I believe I know what he means! Have you spoken with [[Velthamar]] about the technology he's developing?
 
-[[Cymorrel]]: We’d need to build a way to test those hostile environments. A cannon in orbit around a celestial body would circumvent the need to escape gravity’s pull.
+[[Cymorrel]]: We’d need a way to test those hostile environments. A cannon with a scrying construct would circumvent the need for organic personnel.
 
-[[Orlathis]]: Giant’s Deep would be a good choice. It’s furthest from the sun, so it would provide the best angles for launch. And it’s moonless (except when the Quantum Moon is visiting).
+[[Orlathis]]: We could use the empty land around here. It's far away from prying eyes and has a lot of open space.
 
-[[Cymorrel]]: Yes, let’s build the cannon in orbit around Giant’s Deep!
+[[Cymorrel]]: Yes, let’s build the cannon here!

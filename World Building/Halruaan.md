@@ -49,6 +49,7 @@ Made the ancient halruaan pillars in the [[Pillar Workshop]]. Brother of [[Cymor
 A scientist working at the [[Toril Observatory]], along with [[Thalior]].
 * [[Thalior]] Conoy
 A scientist working at the [[Toril Observatory]], along with [[Olyssane]].
+* [[]]
 
 ### **Male Names**
 
