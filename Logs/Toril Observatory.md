@@ -23,7 +23,7 @@ Knowledge of Toril
 
 PLUME: [[Orlathis]], how can you suggest that? You want to just give up hope!?
 
-[[Orlathis]]: I don't; I grew up hearing about Toril. Yet we’re no closer to finding it than you were when you first arrived here.
+[[Orlathis]]: I don't; I still want to go back. Yet we’re no closer to finding it than you were when you first arrived here.
 
 
 
@@ -45,9 +45,15 @@ New methods to search for the Eye
 [[Thalior]]: How should our methods change as we continue our search for Toril?
 
 [[Elvanna]]: As we couldn’t find Toril’s using two different telescopes built for this exact purpose, we should discontinue this search method.
-[[Maruviel]]: We know what Toril looks like thanks to the records, so what if we try to find the Eye visually, instead? Let’s send out a probe!
-[[Orlathis]]: [[Maruviel]]’s idea is clever, but we have no idea where the Eye is in relation to here. The probability of launching a probe in the correct direction would be absurdly small.
-[[Thalior]]: I believe I have a solution for that problem! Have you spoken with Ramie and Pye about the technology they’re developing?
-[[Cymorrel]]: We’d need to build a probe-launching mechanism to cover those long distances quickly. A cannon in orbit around a celestial body would circumvent the need to escape gravity’s pull.
+
+[[Maruviel]]: We know where Toril is thanks to the records, but we should be right on top of it. What if it is?
+
+[[Orlathis]]: [[Maruviel]], are you healthy? You are not making sense.
+
+[[Thalior]]: I believe I know what he means! Have you spoken with [[Velthamar]] about the technology he's developing?
+
+[[Cymorrel]]: We’d need to build a way to test those hostile environments. A cannon in orbit around a celestial body would circumvent the need to escape gravity’s pull.
+
 [[Orlathis]]: Giant’s Deep would be a good choice. It’s furthest from the sun, so it would provide the best angles for launch. And it’s moonless (except when the Quantum Moon is visiting).
+
 [[Cymorrel]]: Yes, let’s build the cannon in orbit around Giant’s Deep!

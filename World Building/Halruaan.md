@@ -22,7 +22,7 @@ The original inventor of the dimensional portals. Lost her life in a tragic acci
 - [[Velthamar]] Poke
 Partner of [[Vaerys]]. Continued and completed her study on dimensional portals.
 - [[Meruvas]] 
-Studied the [[Skyfire Comet]] and discoverd its orbit will collide with the planet.
+Studied the [[Skyfire Comet]] and discovered its orbit will collide with the planet.
 * [[Ilmarros]] Yarrow
 Worked on the [[Deneir Project]] and oversaw other projects as well.
 * [[Soriel]] Clary
