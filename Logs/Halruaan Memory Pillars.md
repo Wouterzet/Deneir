@@ -1,0 +1,1 @@
+The **Halruaan Pillars** are Pillars that were made by the [[Halruaan]], crucial to the working of the [[Deneir Project]]. They were used to record memories and data that would then be sent back into the past.

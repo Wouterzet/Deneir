@@ -1,8 +1,8 @@
-The deep current station is an ancient hydroelectric power station situated under Deneir village. Using the stream of water from [[the flow channel 1]] it generates and stores power to be directed to different parts of the [[Deneir Project]].
+The deep current station is an ancient hydroelectric power station situated under Deneir village. Using the stream of water from [[The flow channel]] it generates and stores power to be directed to different parts of the [[Deneir Project]].
 
 **Accesibility**
 --
-The deep current station is accesed through a heavy vault-like door from [[the flow channel 1]] 
+The deep current station is accesed through a heavy vault-like door from [[The flow channel]] 
 
 
 **Texts and recordings**
