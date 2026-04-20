@@ -58,7 +58,7 @@ Geology apprentice under [[Morvian]] who worked on the shell for the [[Deneir Pr
 * [[Elyndor]] Oeno
 Took part in the extraction and shipping of ore for the construction for the [[Deneir Project]]
 * [[Morvian]] Coleus
-Worked on providing the ore for the [[de]]
+Worked on providing the ore for the [[Deneir Project]]
 
 ### **Male Names**
 

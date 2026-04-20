@@ -3,16 +3,16 @@
 - The entrance to the mines a hidden mineshaft that the players must find a way to get to the bottom.
 
 
-OENO: I’m still amazed by how much ore the Ash Twin Project requires!
+[[Elyndor]]: I’m still amazed by how much ore the Deneir Project requires!
 
-CYCAD: Isn’t this the ore for the remaining towers being built on Ash Twin? The completed towers I’ve seen are quite large!
+[[Vaerthus]]: Isn’t this the ore for the remaining towers being built on Ash Twin? The completed towers I’ve seen are quite large!
 
-OENO: No, the material for those towers is all being taken from Ash Twin. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber inside Ash Twin’s core.
+[[Elyndor]]: No, the material for those towers is all being taken from Ash Twin. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber under the construction site.
 
-CYCAD: If they're sealing off all entrances, I hope they've planned a-core-dingly!
+[[Vaerthus]]: If they're sealing off all entrances, I hope they've planned a-core-dingly!
 
-OENO: I thought you had forbidden your apprentice from making puns, Coleus.
+[[Elyndor]]: I thought you had forbidden your apprentice from making puns, [[Morvian]].
 
-COLEUS: How else would he improve?
+[[Morvian]]: How else would he improve?
 
-COLEUS: I’m relieved by our clan’s decision to use Timber Hearth’s ore only for constructing the shell. If, eventually, life on this planet were to evolve to the point of advanced metallurgy, I’m confident we won’t have destroyed their ability to create!
+[[Morvian]]: I’m relieved by our clan’s decision to use Timber Hearth’s ore only for constructing the shell. If, eventually, life on this planet were to evolve to the point of advanced metallurgy, I’m confident we won’t have destroyed their ability to create!
