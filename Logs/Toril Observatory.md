@@ -6,7 +6,7 @@ To get into the observatory the players can notice the dragonsheep digging a hol
 
 Within the Toril Observatory there is a large telescope.
 They can also find 2 windposts there about the Halruaan's ongoing search for Toril.
-One covers what th
+One covers what they know about Toril and laments their lack of progresds finding it. In the other, Halruaan Maruviel offers the idea that they aren't looking in the right place. 
 
 
 
