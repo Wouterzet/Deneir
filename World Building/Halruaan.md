@@ -53,6 +53,12 @@ A scientist working at the [[Toril Observatory]], along with [[Olyssane]].
 Build the [[Toril Observatory]]. Father of [[Cyrandel]]
 * [[Cyrandel]] Phlox
 Scientist and Craftsman who created the [[Halruaan Memory Pillars]].
+* [[Vaerthus]] Cycad
+Geology apprentice under [[Morvian]] who worked on the shell for the [[Deneir Project]]
+* [[Elyndor]] Oeno
+Took part in the extraction and shipping of ore for the construction for the [[Deneir Project]]
+* [[Morvian]] Coleus
+Worked on providing the ore for the [[de]]
 
 ### **Male Names**
 
@@ -68,9 +74,9 @@ Scientist and Craftsman who created the [[Halruaan Memory Pillars]].
 - [x] **Aruviel
 - [x] **Thalior
 - [x] **Cyrandel**
-- [ ] **Vaerthus
-- [ ] **Elyndor
-- [ ] **Morvian
+- [x] **Vaerthus
+- [x] **Elyndor
+- [x] **Morvian
 - [ ] **Seltharion
 - [ ] **Druvanel
 - [ ] **Lorvathis**
