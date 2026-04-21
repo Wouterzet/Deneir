@@ -32,9 +32,9 @@ worked at [[The Deep Current Station]]. Brother to [[Elvanna]].
 * [[Elvanna]] Privet
 Worked at the [[Construct Intelligence Center]].  Sister of [[Tharivol]].
 * [[Cevira]] Pye
-Worked at the [[Energy Lab]] and [[The Deep Current Station]] as part of the [[Deneir Project]].
+Worked at the [[Esoteric Research Lab]] and [[The Deep Current Station]] as part of the [[Deneir Project]].
 * [[Ylindra]] Ramie
-Worked at the [[Energy Lab]] and helped build the [[Deneir Project]]'s core
+Worked at the [[Esoteric Research Lab]] and helped build the [[Deneir Project]]'s core
  * [[Jassirion]] Root
 Worked at the [[black hole forge]] along with [[Soriel]] and [[Velthamar]] to create the dimensional portal machines.
 * [[Maruviel]] Mallow
