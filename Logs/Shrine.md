@@ -4,5 +4,7 @@ As the party steps onto the shrine the line open to reveal eyes looking at each 
 
 Nothing else happens on the surface but deep below the ground. Under a massive layer of near indestructible stone, ancient Halruaan devices churn up. Linking to the players' minds.
 
+
+The shrine has a carving in the stone base. The carving is in Halruaan so the party will have to go to the library to find a book to translate it.
 "The river writes slowly. When it has written enough, the lost will be found."
 
