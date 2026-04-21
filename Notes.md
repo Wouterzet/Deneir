@@ -21,7 +21,7 @@ With this they thought of a way to return back to their original land. They woul
 
 The people of the village would get slaughtered hundreds, thousands maybe millions of times every night. Every time by a new cataclysmic dimensional portal. Only to not know anything about it when the players restart the loop, as it has not happened yet.
 
-However the dimension they were stuck in was home to an [[Atropal]] that destroyed the [[Advanced energy core]] that was supposed to be used to teleport the island back to its rightful place in the [[Trackless Sea]]. The players must take out the core for the Deneir project to use for the teleporting system while entering the dimensional coordinates they found. Only then, using the energy released from the portal that night, they can teleport the island back to [[Toril]].
+However the dimension they were stuck in was home to an [[Atropal]] that destroyed the [[Advanced energy core]] that was supposed to be used to teleport the island back to its rightful place in the [[Trackless Sea]]. The players must take out the core for the [[Deneir project]] to use for the teleporting system while entering the dimensional coordinates they found. Only then, using the energy released from the portal that night, they can teleport the island back to [[Toril]].
 
 
 About the [[Atropal]]
@@ -78,7 +78,7 @@ Using bigger portals they managed to increase the time ripple created. However t
 
 They set the system to run when the energy would be enough for a 24 hour ripple, however even with this amount they did not know whether it would be enough or how long it would even take to power up.
 
-If a pillar were to lose synchronization with a user (in case of death or similar) the pillar would sync with the nearest user when prompted to by the Deneir project. In case of a system failure the user would have theoretical infinite time to make themselves acquainted with the instruments and machinery in the library.
+If a pillar were to lose synchronization with a user (in case of death or similar) the pillar would sync with the nearest user when prompted to by the [[Deneir project]]. In case of a system failure the user would have theoretical infinite time to make themselves acquainted with the instruments and machinery.
 
 
 **Energy creation on the island.** 

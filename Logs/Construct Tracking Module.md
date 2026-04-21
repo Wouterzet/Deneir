@@ -3,7 +3,7 @@
 - The [[HALRUAA DIMENSIONAL SURVEY LOGS]] reveal that the cave in led to the data not being transferred to the control module.
 - The Construct Intelligence Center has launched tens of thousands of probes.
 - The 193.642th construct located a dimension matching all known criteria for Toril.
-- The pillar in the Construct Tracking Module automatically records each dimension's coordinates and transmits the data to the Deneir Project.
+- The pillar in the Construct Tracking Module automatically records each dimension's coordinates and transmits the data to the [[Deneir Project]].
 - I found Halruaan coordinates marking the location of Toril's Dimension.
 
 

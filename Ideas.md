@@ -6,4 +6,4 @@ The access points for these are bolt action slots in the wall with a hole about 
 The Halruaan people would send these messages back and forth after adding a response. The capsules contain a long scroll that has replies to messages.
 
 **Entering the Deneir Project**
-The Deneir shrine where the players get linked to the pillars is also where they get teleported to the Deneir project underground. To get teleported there they need to go to [[The Deep Current Station]] and reroute power to the teleporter. Power has been cut off from there to conserve energy.
+The Deneir shrine where the players get linked to the pillars is also where they get teleported to the [[Deneir project]] underground. To get teleported there they need to go to [[The Deep Current Station]] and reroute power to the teleporter. Power has been cut off from there to conserve energy.
