@@ -25,7 +25,7 @@
 
 [[Elyndor]]: No, the material for those modules is all being taken from the mountain near Suthhaven. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber under the construction site.
 
-[[Vaerthus]]: If they're sealing off all entrances, I hope they've planned a-core-dingly!
+[[Vaerthus]]: It sounds like the plan has a lot of poten-shell!
 
 [[Elyndor]]: I thought you had forbidden your apprentice from making puns, [[Morvian]].
 
