@@ -48,7 +48,7 @@ Made the ancient halruaan pillars in the [[Pillar Workshop]]. Brother of [[Cymor
 * [[Olyssane]] Spire
 A scientist working at the [[Toril Observatory]], along with [[Thalior]].
 * [[Thalior]] Conoy
-A scientist working at the [[Toril Observatory]], along with [[Olyssane]].
+A scientist working at the [[Toril Observatory]], along with [[Olyssane]].w
 * [[Plumor]] Plume
 Build the [[Toril Observatory]]. Father of [[Cyrandel]]
 * [[Cyrandel]] Phlox
