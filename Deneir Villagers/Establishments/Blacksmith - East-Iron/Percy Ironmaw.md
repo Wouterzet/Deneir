@@ -1,2 +1,2 @@
 Percy Ironmaw, Tabaxi (He/Him) Son of Relfrego (Works at Blacksmith) 🩷 [[Donny Miller]]. 17.
-Each night, Percy and Donny sneak away to spend the night with each other.
+Each night, Percy and Donny sneak away to spend the night with each other. Works at [[East Iron Blacksmith]].
