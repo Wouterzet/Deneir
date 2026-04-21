@@ -1,4 +1,4 @@
-This is [[Deneir Village]]'s blacksmith. Most of the stuff made here are farming tools or household items. Relfrego Ironmaw has made some weapons but they are not particularly high quality and seem to mostly be to make the Blacksmith seem genuine. 
+This is [[Deneir Village]]'s blacksmith. Most of the stuff made here are farming tools or household items. [[Relfrego Ironmaw]] has made some weapons but they are not particularly high quality and seem to mostly be to make the Blacksmith seem genuine. 
 
 At the front entrance the players can find a stone slab half in the ground that has some Halruaan written words on it.
 
