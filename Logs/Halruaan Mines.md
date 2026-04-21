@@ -21,9 +21,9 @@
 
 [[Elyndor]]: I’m still amazed by how much ore the Deneir Project requires!
 
-[[Vaerthus]]: Isn’t this the ore for the remaining towers being built on Ash Twin? The completed towers I’ve seen are quite large!
+[[Vaerthus]]: Isn’t this the ore for the remaining modules being built underground? The completed module I’ve seen is quite large!
 
-[[Elyndor]]: No, the material for those towers is all being taken from Ash Twin. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber under the construction site.
+[[Elyndor]]: No, the material for those modules is all being taken from the mountain near Suthhaven. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber under the construction site.
 
 [[Vaerthus]]: If they're sealing off all entrances, I hope they've planned a-core-dingly!
 
