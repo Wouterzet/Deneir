@@ -16,7 +16,7 @@ The ceiling is unstable and after the launch of the construct the entire module 
 
 Text and recordings
 --
-Deneir Project and construct**
+**Deneir Project and construct**
 
 [[Ilmarros]]: I have exciting news, [[Elvanna]]: The [[Deneir Project]] is almost prepared to receive the construct data from the [[Construct Intelligence Center]].
 
@@ -24,7 +24,7 @@ Deneir Project and construct**
 
 [[Elvanna]]: We are! The [[Construct Tracking Module]] is ready to record each launch’s environmental data and will automatically transmit all relevant measurements to you.
 
-[[Elvanna]]: Once the construct determines the location of [[Toril]], I’ll send an alert directly to you and [[Ylindra]].
+[[Elvanna]]: Once the construct determines the location of [[Toril]], It’ll send an alert directly to you and [[Ylindra]].
 
 [[Elvanna]]: On the other appendage, I’m now worried about this cannon’s structural integrity and its crew’s moral integrity.
 

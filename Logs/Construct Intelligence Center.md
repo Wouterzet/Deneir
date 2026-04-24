@@ -1,2 +1,2 @@
-- The ruins of a Halruaan Intelligence Center located under Annie's Hill. There are three accessways branching off from the central hub area. One goes to the [[Control Module]], the second goes to the [[Launch Module]] and the third goes to the [[Construct Tracking Module]].
+- The ruins of a Halruaan Intelligence Center located under [[Mamma Yaga]]'s farm. There are three accessways branching off from the central hub area. One goes to the [[Control Module]], the second goes to the [[Launch Module]] and the third goes to the [[Construct Tracking Module]].
 - The Construct Intelligence Center was created to find the precise dimensional coordinates of [[Toril]].
