@@ -10,7 +10,7 @@ One covers what they know about Toril and laments their lack of progresds findin
 
 
 
-Knowledge of Toril
+**Knowledge of Toril**
 
 [[Thalior]]: What have we learned thus far in our search for Toril?
 
@@ -27,7 +27,7 @@ Knowledge of Toril
 [[Orlathis]]: I don't; I still want to go back. Yet we’re no closer to finding it than you were when you first arrived here.
 
 
-New methods to search for the Eye
+**New methods to search for the Eye**
 
 [[Thalior]]: How should our methods change as we continue our search for Toril?
 
