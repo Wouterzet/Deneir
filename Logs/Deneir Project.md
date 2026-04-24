@@ -3,3 +3,8 @@
 - The [[Deneir Project]] was designed to use the energy from a dimensional rift (triggered by the [[Gateway Station]]) to send probe data from the [[Construct Intelligence Center]] 19 hours into the past.
 - The [[Gateway Station]] only worked theoretically. Although the [[Deneir Project]] was sound on paper, the Halruaan were unable to power it.
 - There is an [[Advanced energy core]] inside the protective casing under the village. Removing the core will disable the [[Deneir Project]].
+
+
+[[Ilmarros]]: Today we finished the excavation of Ash Twin. Here, in this space we carved, we will craft our most ambitious project yet: the Ash Twin Project, powerful enough to send information back in time.
+
+PYE: How far we’ve come since our experiments at the High Energy Lab! I still can hardly believe Ramie’s hypothesis was true.
