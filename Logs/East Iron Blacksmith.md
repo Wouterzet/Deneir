@@ -2,7 +2,7 @@ This is [[Deneir Village]]'s blacksmith. Most of the stuff made here are farming
 
 At the front entrance the players can find a stone slab half in the ground that has some Halruaan written words on it.
 
-Translated it says: "Pillar Workshop"
+Translated it says: "[[Pillar Workshop]]"
 
 In the basement of the blacksmith the players can find a pillar between the boxes and barrels that looks like one of the pillars in the [[shrine]]. Upon further inspection it looks unfinished. 
 
