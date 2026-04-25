@@ -7,7 +7,7 @@
 
 [[Vaerthus]]: Isn’t this the ore for the remaining modules being built underground? The completed control module I’ve seen is quite large!
 
-[[Elyndor]]: No, the material for those modules is all being taken from the mountain near Suthhaven. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber under the construction site.
+[[Elyndor]]: No, the material for those modules is all being taken from the mountain near Suthhaven. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber under the project site.
 
 [[Vaerthus]]: It sounds like the project has a lot of poten-shell!
 

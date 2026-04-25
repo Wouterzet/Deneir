@@ -2,11 +2,11 @@
 - The Halruaan discovered that their star system was located exactly where [[Toril]] was supposed to be.
 - Annie's hill isn't a hill at all. It is the observatory dome with grass growing over it.
 
-To get into the observatory the players can notice the dragonsheep digging a hole where the bottom of the hole is some kind opaque glass.
+To get into the observatory the players can notice the dragonsheep digging a hole where the bottom of the hole is some kind white metal.
 
 Within the Toril Observatory there is a large telescope.
 They can also find 2 windposts there about the Halruaan's ongoing search for Toril.
-One covers what they know about Toril and laments their lack of progresds finding it. In the other, Halruaan Maruviel offers the idea that they aren't looking in the right place. 
+One covers what they know about Toril and laments their lack of progress finding it. In the other, Halruaan Maruviel offers the idea that they aren't looking in the right place. 
 
 
 
