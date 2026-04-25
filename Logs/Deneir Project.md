@@ -19,3 +19,10 @@ Poke: Hypothesis: The cores could have been forged faster if [[Orlathis]] had in
 [[Ilmarros]]: The important point is that this part is done now, and also that I’m no longer needed for mediating your disagreements.
 
 
+Text wall - Construct Intelligence Center tests
+
+[[Ilmarros]]: Our friends to the west tested the [[Construct Intelligence Center]] today. [[Maruviel]] tells me the cannon is doing well, and that [[Cymorrel]] advocates for more launch power. If anyone can coax the maximum power from a device, [[Cymorrel]] can.
+
+[[Ilmarros]]: But then, if anyone can goad a device into exploding, that, too, is likely [[Cymorrel]]. Perhaps I should check in with the [[Construct Intelligence Center]] crew in the interest of safety.
+
+[[Ilmarros]]: Would it help to remind [[Cymorrel]] that [[Maruviel]] (his love) will be one of the Halruaans in the building, or is [[Maruviel]] part of the problem?
