@@ -26,3 +26,10 @@ Text wall - Construct Intelligence Center tests
 [[Ilmarros]]: But then, if anyone can goad a device into exploding, that, too, is likely [[Cymorrel]]. Perhaps I should check in with the [[Construct Intelligence Center]] crew in the interest of safety.
 
 [[Ilmarros]]: Would it help to remind [[Cymorrel]] that [[Maruviel]] (his love) will be one of the Halruaans in the building, or is [[Maruviel]] part of the problem?
+
+
+Text wall - Memory statues finished
+
+[[Ilmarros]]: Phlox and Daz finished the memory statues today, and they are truly remarkable.
+
+[[Ilmarros]]: When the Ash Twin Project succeeds (or in the event it fails), the memory statues will activate, allowing us to gather more data before we shut down the project.
