@@ -7,3 +7,15 @@
 
 [[Ilmarros]]: Today we finished the excavation under the plains. Here, in this space we carved, we will craft our most ambitious project yet: the Deneir Project, powerful enough to send information back in time.
 
+
+Text wall - Warp Tower connections
+
+[[Ilmarros]]: Poke just sent the warp core for the final tower to us from the Black Hole Forge. Now Ash Twin can be connected with Giant’s Deep, where [[Orlathis]] is working with [[Cymorrel]] to craft the Orbital Probe Cannon, and where [[Cyrandel]] is sculpting the memory statues.
+
+[[Orlathis]]: Hypothesis: It was not by accident the core of our warp tower was the last to be forged.
+
+Poke: Hypothesis: The cores could have been forged faster if [[Orlathis]] had interrupted my work less frequently to ask for updates.
+
+[[Ilmarros]]: The important point is that this part is done now, and also that I’m no longer needed for mediating your disagreements.
+
+
