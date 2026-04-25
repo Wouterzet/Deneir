@@ -26,14 +26,12 @@ If the players ask Relfrego or Percy about these capsules they might tell the pl
 
 **Memory pillar recording**
 
-[[Cyrandel]]: [[Ilmarros]], would you kindly step back so [[Zeruvan]] is closest to the statue? When pairing, the statue will choose whoever is in closest proximity.
-
 [[Ilmarros]]: [[Cyrandel]], how are things proceeding with the pillars?
 
 [[Cyrandel]]: The first test with pairing the pillar to [[Zeruvan]] has gone smoothly. The eye opened and the flame ignited. Now, no matter where he is, [[Zeruvan]]’s pillar will record his memories and send them to the Deneir Project.
 
 [[Zeruvan]]: He has outdone himself again with the sculpting work as well I might add! And now that we have our first successful pairing, we can test my memory storage prototype.
 
-[[Zeruvan]]: Each statue will send a single Halruaan’s memories to his or her own storage unit within the project.
+[[Zeruvan]]: Each pillar will send a single Halruaan’s memories to his or her own storage unit within the project.
 
 [[Cyrandel]]: Each storage unit will be equipped with a book, the pillar’s counterpart, which will be able to send those stored memories back to the corresponding Halruaan.
