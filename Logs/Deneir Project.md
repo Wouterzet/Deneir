@@ -21,7 +21,7 @@ Wind post - Memory pillars finished
 
 [[Ilmarros]]: [[Cyrandel]] and [[Zeruvan]] finished the memory pillars today, and they are truly remarkable.
 
-[[Ilmarros]]: When the Deneir Project succeeds (or in the event it fails), the memory pillars will activate, allowing us to gather more data before we shut down the project.
+[[Ilmarros]]: When the Deneir Project succeeds (or in the event it fails), the memory pillars will activate, allowing us to gather more data before we shut down the project. 
 
 
 Wind post -  Deneir Project order of events
