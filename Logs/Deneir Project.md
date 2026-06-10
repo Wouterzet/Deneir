@@ -8,18 +8,7 @@
 [[Ilmarros]]: Today we finished the excavation under the plains. Here, in this space we carved, we will craft our most ambitious project yet: the Deneir Project, powerful enough to send information back in time.
 
 
-Text wall - Warp Tower connections
-
-[[Ilmarros]]: Poke just sent the warp core for the final tower to us from the Black Hole Forge. Now Ash Twin can be connected with Giant’s Deep, where [[Orlathis]] is working with [[Cymorrel]] to craft the Orbital Probe Cannon, and where [[Cyrandel]] is sculpting the memory statues.
-
-[[Orlathis]]: Hypothesis: It was not by accident the core of our warp tower was the last to be forged.
-
-Poke: Hypothesis: The cores could have been forged faster if [[Orlathis]] had interrupted my work less frequently to ask for updates.
-
-[[Ilmarros]]: The important point is that this part is done now, and also that I’m no longer needed for mediating your disagreements.
-
-
-Text wall - Construct Intelligence Center tests
+Wind post - Construct Intelligence Center tests
 
 [[Ilmarros]]: Our friends to the west tested the [[Construct Intelligence Center]] today. [[Maruviel]] tells me the cannon is doing well, and that [[Cymorrel]] advocates for more launch power. If anyone can coax the maximum power from a device, [[Cymorrel]] can.
 
@@ -28,14 +17,14 @@ Text wall - Construct Intelligence Center tests
 [[Ilmarros]]: Would it help to remind [[Cymorrel]] that [[Maruviel]] (his love) will be one of the Halruaans in the building, or is [[Maruviel]] part of the problem?
 
 
-Text wall - Memory statues finished
+Wind post - Memory pillars finished
 
-[[Ilmarros]]: [[Cyrandel]] and [[Zeruvan]] finished the memory statues today, and they are truly remarkable.
+[[Ilmarros]]: [[Cyrandel]] and [[Zeruvan]] finished the memory pillars today, and they are truly remarkable.
 
-[[Ilmarros]]: When the Deneir Project succeeds (or in the event it fails), the memory statues will activate, allowing us to gather more data before we shut down the project.
+[[Ilmarros]]: When the Deneir Project succeeds (or in the event it fails), the memory pillars will activate, allowing us to gather more data before we shut down the project.
 
 
-Text wall -  Deneir Project order of events
+Wind post -  Deneir Project order of events
 
 [[Ilmarros]]: We’re nearly ready to activate the Deneir Project! Here is what will happen: First, the Deneir project will receive the order to open a megaportal.
 
@@ -46,7 +35,7 @@ Text wall -  Deneir Project order of events
 [[Ilmarros]]: We can end this cycle at will.
 
 
-**Text wall - Deep Current Station failed**
+Wind post - Deep Current Station failed
 
 [[Ilmarros]]: These words are difficult to write: The Deep Current Station is not enough.
 
@@ -61,15 +50,8 @@ Text wall -  Deneir Project order of events
 [[Cevira]]: You can wait for the energy to accumulate eventually if you prefer, [[Tharivol]], but you’ll need to find some way to halt our aging process.
 
 
-**Text wall - Arrival of comet**
-
-[[Ilmarros]]: We are halting our research into creating a supernova for this moment; a comet has newly arrived in this solar system, and we’re anxious to explore it.
-
-[[Ilmarros]]: It’s been a very long time since we last explored somewhere new, so we’re excited to welcome this comet. Imagine what knowledge might be gained there!
-
-
-**Text wall - Arrival of comet**
+Wind post - Setting up a meeting
 
 [[Ilmarros]]: We are setting up a meeting with all teams to explore other means to go home.
 
-[[Ilmarros]]: It’s been a very long time since we last gathered everyone. Imagine what knowledge might be gained there!
+[[Ilmarros]]: It’s been a very long time since we last gathered everyone. Imagine what we could come up with if we put our heads together!
