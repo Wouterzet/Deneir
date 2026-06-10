@@ -49,8 +49,8 @@ Text wall - Memory statues finished
 
 [[Ilmarros]]: We’re nearly ready to activate the Deneir Project! Here is what will happen: First, the Deneir project will receive the order to open a megaportal.
 
-[[Ilmarros]]: Using the ripple from the megaportal, the Deneir Project will send the order for the Construct intelligence center to fire.
+[[Ilmarros]]: Deneir Project will then send the order for the Construct intelligence center to fire a construct.
 
-[[Ilmarros]]: Exactly 22 minutes after these orders are received, the Sun Station will again trigger the supernova to send the probe data from this cannon launch back in time.
+[[Ilmarros]]: The readings from the Contruct Tracking Module
 
 [[Ilmarros]]: In total, each cycle created by the Ash Twin Project will last precisely 22 minutes. We can end this cycle at will.
