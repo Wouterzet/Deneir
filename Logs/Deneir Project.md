@@ -46,25 +46,7 @@ Text wall -  Deneir Project order of events
 [[Ilmarros]]: We can end this cycle at will.
 
 
-
-
-
-**Text wall - Sun Station failed**
-
-[[Ilmarros]]: These words are difficult to write: The Sun Station did not work.
-
-[[Ilmarros]]: However, this is the closest we have ever been. The Ash Twin Project is theoretically sound; we were only unable to power it. Perhaps there is another way.
-
- [[Cevira]]: Suppose we redesign the Sun Station. To generate power of that magnitude, a supernova is still our only viable option.
-
- [[Ylindra]]: I believe we can still find a way to create a supernova, my friend. Don’t lose hope!
-
-[[Tharivol]]: This is easier expressed than accomplished.
-
- [[Cevira]]: You can wait for the sun to explode on its natural timeline if you prefer, Idaea, but you’ll need to find some way to halt our aging process.
-
-
-**Text wall - Sun Station failed**
+**Text wall - Deep Current Station failed**
 
 [[Ilmarros]]: These words are difficult to write: The Deep Current Station is not enough.
 
@@ -72,8 +54,22 @@ Text wall -  Deneir Project order of events
 
 [[Cevira]]: Suppose we redesign the Deep Current Station. To generate power of that magnitude on this empty planet, our only viable option is to use the thing the only thing that it has.
 
-[[Ylindra]]: I believe we can still find a way to create a supernova, my friend. Don’t lose hope!
+[[Ylindra]]: I believe we can still find a way to create a megaportal, my friend. Don’t lose hope!
 
 [[Tharivol]]: This is easier expressed than accomplished.
 
-[[Cevira]]: You can wait for the sun to explode on its natural timeline if you prefer, Idaea, but you’ll need to find some way to halt our aging process.
+[[Cevira]]: You can wait for the energy to accumulate eventually if you prefer, [[Tharivol]], but you’ll need to find some way to halt our aging process.
+
+
+**Text wall - Arrival of comet**
+
+[[Ilmarros]]: We are halting our research into creating a supernova for this moment; a comet has newly arrived in this solar system, and we’re anxious to explore it.
+
+[[Ilmarros]]: It’s been a very long time since we last explored somewhere new, so we’re excited to welcome this comet. Imagine what knowledge might be gained there!
+
+
+**Text wall - Arrival of comet**
+
+[[Ilmarros]]: We are setting up a meeting with all teams to explore other means to go home.
+
+[[Ilmarros]]: It’s been a very long time since we last gathered everyone. Imagine what knowledge might be gained there!
