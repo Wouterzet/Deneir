@@ -33,3 +33,24 @@ Text wall - Memory statues finished
 [[Ilmarros]]: [[Cyrandel]] and [[Zeruvan]] finished the memory statues today, and they are truly remarkable.
 
 [[Ilmarros]]: When the Deneir Project succeeds (or in the event it fails), the memory statues will activate, allowing us to gather more data before we shut down the project.
+
+
+**Text wall - Ash Twin Project order of events**
+
+[[Ilmarros]]: We’re nearly ready to activate the Ash Twin Project! Here is what will happen: First, the Sun Station will receive the order to fire at the sun, prompting it to explode.
+
+[[Ilmarros]]: Using the energy from the resulting supernova, the Ash Twin Project will send the order for the Orbital Probe Cannon to fire back in time by 22 minutes.
+
+[[Ilmarros]]: Exactly 22 minutes after these orders are received, the Sun Station will again trigger the supernova to send the probe data from this cannon launch back in time.
+
+[[Ilmarros]]: In total, each cycle created by the Ash Twin Project will last precisely 22 minutes. We can end this cycle at will.
+
+**Text wall - Ash Twin Project order of events**
+
+[[Ilmarros]]: We’re nearly ready to activate the Deneir Project! Here is what will happen: First, the Deneir project will receive the order to open a megaportal.
+
+[[Ilmarros]]: Using the ripple from the megaportal, the Deneir Project will send the order for the Construct intelligence center to fire.
+
+[[Ilmarros]]: Exactly 22 minutes after these orders are received, the Sun Station will again trigger the supernova to send the probe data from this cannon launch back in time.
+
+[[Ilmarros]]: In total, each cycle created by the Ash Twin Project will last precisely 22 minutes. We can end this cycle at will.
