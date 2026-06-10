@@ -35,22 +35,45 @@ Text wall - Memory statues finished
 [[Ilmarros]]: When the Deneir Project succeeds (or in the event it fails), the memory statues will activate, allowing us to gather more data before we shut down the project.
 
 
-**Text wall - Ash Twin Project order of events**
-
-[[Ilmarros]]: We’re nearly ready to activate the Ash Twin Project! Here is what will happen: First, the Sun Station will receive the order to fire at the sun, prompting it to explode.
-
-[[Ilmarros]]: Using the energy from the resulting supernova, the Ash Twin Project will send the order for the Orbital Probe Cannon to fire back in time by 22 minutes.
-
-[[Ilmarros]]: Exactly 22 minutes after these orders are received, the Sun Station will again trigger the supernova to send the probe data from this cannon launch back in time.
-
-[[Ilmarros]]: In total, each cycle created by the Ash Twin Project will last precisely 22 minutes. We can end this cycle at will.
-
-**Text wall - Ash Twin Project order of events**
+Text wall -  Deneir Project order of events
 
 [[Ilmarros]]: We’re nearly ready to activate the Deneir Project! Here is what will happen: First, the Deneir project will receive the order to open a megaportal.
 
 [[Ilmarros]]: Deneir Project will then send the order for the Construct Intelligence Center to fire a construct.
 
-[[Ilmarros]]: The readings from the Construct Tracking Module will be analyzed and compared to Toril records.
+[[Ilmarros]]: Using the ripple from the portal, the readings from the Construct Tracking Module will be sent back in time to be analyzed and compared to Toril records.
 
-[[Ilmarros]]: In total, each cycle created by the Ash Twin Project will last precisely 22 minutes. We can end this cycle at will.
+[[Ilmarros]]: We can end this cycle at will.
+
+
+
+
+
+**Text wall - Sun Station failed**
+
+[[Ilmarros]]: These words are difficult to write: The Sun Station did not work.
+
+[[Ilmarros]]: However, this is the closest we have ever been. The Ash Twin Project is theoretically sound; we were only unable to power it. Perhaps there is another way.
+
+ [[Cevira]]: Suppose we redesign the Sun Station. To generate power of that magnitude, a supernova is still our only viable option.
+
+ [[Ylindra]]: I believe we can still find a way to create a supernova, my friend. Don’t lose hope!
+
+[[Tharivol]]: This is easier expressed than accomplished.
+
+ [[Cevira]]: You can wait for the sun to explode on its natural timeline if you prefer, Idaea, but you’ll need to find some way to halt our aging process.
+
+
+**Text wall - Sun Station failed**
+
+[[Ilmarros]]: These words are difficult to write: The Deep Current Station is not enough.
+
+[[Ilmarros]]: However, this is the closest we have ever been. The Deneir Project is theoretically sound; we were only unable to power it. Perhaps there is another way.
+
+[[Cevira]]: Suppose we redesign the Deep Current Station. To generate power of that magnitude on this empty planet, our only viable option is to use the thing the only thing that it has.
+
+[[Ylindra]]: I believe we can still find a way to create a supernova, my friend. Don’t lose hope!
+
+[[Tharivol]]: This is easier expressed than accomplished.
+
+[[Cevira]]: You can wait for the sun to explode on its natural timeline if you prefer, Idaea, but you’ll need to find some way to halt our aging process.
