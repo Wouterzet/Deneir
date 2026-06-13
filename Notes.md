@@ -107,8 +107,6 @@ DR staat voor Dale Reckoning en wordt gebruikt net zoals AD wat staat voor Anno 
 - Go to the [[Construct Tracking Module]]
 - Get the coordinates for [[Toril]]
 - Get Anti Necrotic Wards from Mama Yaga
-- Go to [[the deep current station]]
-- Reroute some power to [[Shrine]] teleporter
 - Reroute the remaining power to the [[warp station]]
 - Enter the [[Deneir Project]]
 - Take out the [[Advanced energy core]]

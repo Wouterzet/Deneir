@@ -6,6 +6,7 @@ The deep current station is accesed through a heavy vault-like door from [[The f
 
 
 **Texts and recordings**
+
 ---
 **System sleep mode 
 
@@ -38,7 +39,7 @@ Deep Current Station Delay
 
 [[Cevira]]: At this rate… the station will never gather the power we need. Or rather, it will, but not in any time that matters to us.
 
-[[Cevira]]: The calculations are clear. It would take over a millennium to accumulate enough energy.
+[[Cevira]]: The calculations are clear. It would take almost two millennia to accumulate enough energy.
 
 [[Cevira]]: None of us will live to see it.
 
