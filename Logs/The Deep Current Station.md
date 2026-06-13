@@ -7,9 +7,9 @@ The deep current station is accesed through a heavy vault-like door from [[The f
 
 **Texts and recordings**
 ---
-**System sleep mode (_dependent on in-game time_)**
+**System sleep mode 
 
-1198 YEARS AGO: No user commands received for 10 minutes. All systems entering sleep.
+1098 YEARS AGO: No user commands received for 10 minutes. All systems entering sleep.
 
 X MINUTES, X SECONDS AGO: 
 Request for power received from {station 0002}. 

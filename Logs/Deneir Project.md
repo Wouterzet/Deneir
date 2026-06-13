@@ -4,10 +4,10 @@
 - The [[Gateway Terminal]] only worked theoretically. Although the [[Deneir Project]] was sound on paper, the Halruaan were unable to power it.
 - There is an [[Advanced energy core]] inside the protective casing under the village. Removing the core will disable the [[Deneir Project]].
 
-
+---
 [[Ilmarros]]: Today we finished the excavation under the plains. Here, in this space we carved, we will craft our most ambitious project yet: the Deneir Project, powerful enough to send information back in time.
 
-
+---
 Wind post - Construct Intelligence Center tests
 
 [[Ilmarros]]: Our friends to the west tested the [[Construct Intelligence Center]] today. [[Maruviel]] tells me the cannon is doing well, and that [[Cymorrel]] advocates for more launch power. If anyone can coax the maximum power from a device, [[Cymorrel]] can.
@@ -16,14 +16,14 @@ Wind post - Construct Intelligence Center tests
 
 [[Ilmarros]]: Would it help to remind [[Cymorrel]] that [[Maruviel]] (his love) will be one of the Halruaans in the building, or is [[Maruviel]] part of the problem?
 
-
+---
 Wind post - Memory pillars finished
 
 [[Ilmarros]]: [[Cyrandel]] and [[Zeruvan]] finished the memory pillars today, and they are truly remarkable.
 
 [[Ilmarros]]: When the Deneir Project succeeds (or in the event it fails), the memory pillars will activate, allowing us to gather more data before we shut down the project. 
 
-
+---
 Wind post -  Deneir Project order of events
 
 [[Ilmarros]]: We’re nearly ready to activate the Deneir Project! Here is what will happen: First, the Deneir project will receive the order to open a megaportal.
@@ -34,7 +34,7 @@ Wind post -  Deneir Project order of events
 
 [[Ilmarros]]: We can end this cycle at will.
 
-
+---
 Wind post - Deep Current Station failed
 
 [[Ilmarros]]: These words are difficult to write: The Deep Current Station is not enough.
@@ -49,6 +49,7 @@ Wind post - Deep Current Station failed
 
 [[Cevira]]: You can wait for the energy to accumulate eventually if you prefer, [[Tharivol]], but you’ll need to find some way to halt our aging process.
 
+---
 
 Wind post - Setting up a meeting
 
@@ -56,6 +57,7 @@ Wind post - Setting up a meeting
 
 [[Ilmarros]]: It’s been a very long time since we last gathered everyone. Imagine what we could come up with if we put our heads together!
 
+---
 
 Evacuation notice
 
