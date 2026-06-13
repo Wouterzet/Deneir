@@ -104,6 +104,8 @@ DR staat voor Dale Reckoning en wordt gebruikt net zoals AD wat staat voor Anno 
 - Enter [[Nimbral]] after the storm
 - Enter the [[Deneir Village]]
 - Get linked to the pillars in the [[Shrine]]
+- Go to [[the deep current station]]
+- Reroute some power to [[Shrine]] teleporter and some to the [[Construct Intelligence Center]]
 - Go to the [[Construct Tracking Module]]
 - Get the coordinates for [[Toril]]
 - Get Anti Necrotic Wards from Mama Yaga
