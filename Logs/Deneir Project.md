@@ -55,3 +55,13 @@ Wind post - Setting up a meeting
 [[Ilmarros]]: We are setting up a meeting with all teams to explore other means to go home.
 
 [[Ilmarros]]: It’s been a very long time since we last gathered everyone. Imagine what we could come up with if we put our heads together!
+
+
+Evacuation notice
+
+Star has reached end of natural life cycle. Now approaching red giant stage. WARNING: Evacuate Sun Station.
+
+Non stable orbit of heavenly body calculated for impact in 
+
+Approximate time until im[]: X MINUTES, X SECONDS
+Approximate time until star’s death: X MINUTES, X SECONDS
