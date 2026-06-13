@@ -1,4 +1,4 @@
-- The Control Module (recently) received a request from the [[Gateway Station]] to launch the construct.
+- The Control Module (recently) received a request from the [[Gateway Terminal]] to launch the construct.
 - The construct was successfully launched, but the cannon's structural integrity was compromised in the process. Damage is detected in multiple modules.
 
 

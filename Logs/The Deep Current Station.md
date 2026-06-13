@@ -52,5 +52,5 @@ Deep Current Station Delay
 
 [[Tharivol]]: I believed that once it was done, our terrible work would finally be behind us.
 
-[[Ilmarros]]: Return to the [[warp station]] first, my friend. We are gathering all teams for a meeting.
+[[Ilmarros]]: Leave the [[Gateway Terminal]] to charge and return to the [[warp station]], my friend. We are gathering all teams for a meeting.
 
