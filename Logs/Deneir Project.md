@@ -61,7 +61,6 @@ Evacuation notice
 
 Star has reached end of natural life cycle. Now approaching red giant stage. WARNING: Evacuate Sun Station.
 
-Non stable orbit of heavenly body calculated for impact in 
+Projected impact event of heavenly body has entered final approach window. WARNING: Evacuate Evacuate all stations. Evacuate all posts.
 
-Approximate time until im[]: X MINUTES, X SECONDS
-Approximate time until star’s death: X MINUTES, X SECONDS
+Approximate time until impact: X HOURS

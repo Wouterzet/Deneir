@@ -92,10 +92,10 @@ The Halruaan had no choice other than waiting for the [[Gateway Terminal]] to sl
 
 The year the island was swallowed up was 1385 DR at the start of the spellplague
 The year the party left the world of toril was 1483 DR.
-The year they enter the island of Nimbral it is the year 2585 DR there. 
-1200 years have passed on the island on this new planet while 98 years have passed on toril.
-24 hours is about 2 hours on Toril.
-Scaling is about 1:12.25
+The year they enter the island of Nimbral it is the year 2485 DR there. 
+1100 years have passed on the island on this new planet while 98 years have passed on toril.
+24 hours is about 2 hours and 8 minutes on Toril.
+Scaling is about 1:11.22
 
 DR staat voor Dale Reckoning en wordt gebruikt net zoals AD wat staat voor Anno Domini.
 
