@@ -11,7 +11,7 @@ The ladder going down has broken halfway through and the players need to find a 
 
 [[Tharivol]]: Cevira, you know I don’t find that funny.
 
-[[Cevira]]: How curious; Ramie thinks I’m a gas. And I don’t recall requesting that you monitor this conversation, Tharivol.
+[[Cevira]]: How curious; [[Ylindra]] thinks I’m a gas. And I don’t recall requesting that you monitor this conversation, Tharivol.
 
 [[Tharivol]]: I don’t see what state of matter you are has to do with this. And I don’t recall supporting the project's construction, but here we are.
 
