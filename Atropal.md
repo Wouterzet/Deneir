@@ -13,17 +13,21 @@ Undead Nature. An atropal doesn't require air, food, drink, or sleep.
 
 _Huge undead (titan), neutral evil_
 
-**Armor Class** 17 (rotting divine flesh, semi-corporeal shielding)  
-**Hit Points** 385 (30d12 + 180)  
+**Armor Class** 7 (rotting divine flesh, semi-corporeal shielding)  
+**Hit Points** 225 (18d12 + 108)  
 **Speed** 0 ft., fly 60 ft. (hover)
 
 STR 19 (+4) | DEX 5 (-3) | CON 22 (+6) | INT 25 (+7) | WIS 19 (+4) | CHA 24 (+7)
 
-**Saving Throws** Con +13, Wis +11, Cha +14  
+**Saving Throws** Con +11, Wis +9, Cha +11  
 **Skills** Arcana +14, Perception +5 (disadvantage, see “Dim Sight”)  
+**Damage Immunities** cold, necrotic; bludgeoning, piercing, and
+slashing damage from nonmagical attacks
+**Condition Immunities** exhaustion, frightened, paralyzed,
+poisoned, prone
 **Senses** Life Sight 300ft., passive Perception 15  
 **Languages** Understands Celestial but utters only obscene nonsense  
-**Challenge** 21 (33,000 XP)
+**Challenge** 13 (33,000 XP)
 
 ---
 
@@ -45,9 +49,9 @@ STR 19 (+4) | DEX 5 (-3) | CON 22 (+6) | INT 25 (+7) | WIS 19 (+4) | CHA 24 (+7)
 
 ### Actions
 
-**Touch.** _Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 21 (6d6) necrotic damage.
+**Touch.** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 21 (6d6) necrotic damage.
 
-**Ray of Cold.** _Ranged Spell Attack:_ +14 to hit, range 120 ft., one target. _Hit:_ 27 (8d6) cold damage.
+**Ray of Cold.** _Ranged Spell Attack:_ +12 to hit, range 120 ft., one target. _Hit:_ 27 (8d6) cold damage.
 
 **Life Drain (Recharge 5-6).** One creature within 120 ft. must succeed on a DC 20 Con save or take 54 (12d8) necrotic damage, half on success. The atropal regains hit points equal to half damage dealt.
 
@@ -62,19 +66,6 @@ STR 19 (+4) | DEX 5 (-3) | CON 22 (+6) | INT 25 (+7) | WIS 19 (+4) | CHA 24 (+7)
 - **Ray of Cold (Costs 2).** Uses Ray of Cold.
     
 - **Wail (Costs 3).** All creatures within 120 ft. who can hear must succeed on a DC 20 Con save or gain 1 level of exhaustion.
-    
-
----
-
-### Lair Actions (Portal Cataclysm)
-
-When fighting near the unstable Nimbral portal, the atropal can take lair actions at initiative count 20 (losing ties):
-
-- **Planar Surge.** Gravity inverts until initiative 20 next round. Creatures must make a DC 18 Strength save or be pulled 20 ft. upward.
-    
-- **Dimensional Echo.** A random spell cast this round repeats at initiative 20, with new targets chosen randomly.
-    
-- **Necrotic Storm.** All living creatures in the area take 14 (4d6) necrotic damage.
     
 
 ---
