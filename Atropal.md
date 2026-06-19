@@ -61,11 +61,11 @@ poisoned, prone
 
 ### Legendary Actions (3 per round)
 
-- **Touch.** The atropal makes one Touch attack.
+- **Touch (Costs 1).** The atropal makes one Touch attack.
     
 - **Ray of Cold (Costs 2).** Uses Ray of Cold.
     
-- **Wail (Costs 3).** All creatures within 120 ft. who can hear must succeed on a DC 20 Con save or gain 1 level of exhaustion.
+- **Wail (Costs 3).** All creatures within 120 ft. who can hear must succeed on a DC 20 Con save or gain 2 levels of exhaustion.
     
 
 ---
