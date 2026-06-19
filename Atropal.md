@@ -31,7 +31,7 @@ STR 19 (+4) | DEX 5 (-3) | CON 22 (+6) | INT 25 (+7) | WIS 19 (+4) | CHA 24 (+7)
 
 **Magic Resistance.** The atropal has advantage on saving throws against spells and other magical effects.
 
-**Negative Energy Aura.** Creatures within 60 feet of the atropal can’t regain hit points, and any creature that starts its turn there takes 21 (6d6) necrotic damage. If the atropal’s umbilical cord is severed (see Weaknesses), this aura disappears.
+**Negative Energy Aura.** Creatures within 300 feet of the atropal can’t regain hit points, and any creature that starts its turn there takes 21 (6d6) necrotic damage. If the atropal’s umbilical cord is severed (see Weaknesses), this aura disappears.
 
 **Turn Immunity.** The atropal is immune to effects that turn undead.
 
