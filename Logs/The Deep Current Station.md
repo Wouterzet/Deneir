@@ -6,10 +6,11 @@ The deep current station is accesed through a heavy vault-like door from [[The f
 
 
 **Texts and recordings**
----
-**System sleep mode (_dependent on in-game time_)**
 
-1198 YEARS AGO: No user commands received for 10 minutes. All systems entering sleep.
+---
+**System sleep mode 
+
+1098 YEARS AGO: No user commands received for 10 minutes. All systems entering sleep.
 
 X MINUTES, X SECONDS AGO: 
 Request for power received from {station 0002}. 
@@ -38,7 +39,7 @@ Deep Current Station Delay
 
 [[Cevira]]: At this rate… the station will never gather the power we need. Or rather, it will, but not in any time that matters to us.
 
-[[Cevira]]: The calculations are clear. It would take over a millennium to accumulate enough energy.
+[[Cevira]]: The calculations are clear. It would take almost two millennia to accumulate enough energy.
 
 [[Cevira]]: None of us will live to see it.
 
@@ -52,5 +53,5 @@ Deep Current Station Delay
 
 [[Tharivol]]: I believed that once it was done, our terrible work would finally be behind us.
 
-[[Ilmarros]]: Return to the [[warp station]] first, my friend. We are gathering all teams for a meeting.
+[[Ilmarros]]: Leave the [[Gateway Terminal]] to charge and return to the [[warp station]], my friend. We are gathering all teams for a meeting.
 

@@ -83,19 +83,19 @@ If a pillar were to lose synchronization with a user (in case of death or simila
 
 **Energy creation on the island.** 
 
-The island is situated on a planet with nothing other than water. The sun creates a tide that moves around the planet. The Halruaan people made tidal turbines below the island that slowly powered the [[Gateway Station]]. This was called [[The Deep Current Station]]. This station is where the turbines are that use the water coming in from [[The flow channel]] to generate power.
+The island is situated on a planet with nothing other than water. The sun creates a tide that moves around the planet. The Halruaan people made tidal turbines below the island that slowly powered the [[Gateway Terminal]]. This was called [[The Deep Current Station]]. This station is where the turbines are that use the water coming in from [[The flow channel]] to generate power.
 
-The Halruaan had no choice other than waiting for the [[Gateway Station]] to slowly be charged by the planets tides. In the time between the Halruaan people waiting and when the party appeared, something happened to the Halruaan people or they just forgot/didn't have to bother. 
+The Halruaan had no choice other than waiting for the [[Gateway Terminal]] to slowly be charged by the planets tides. In the time between the Halruaan people waiting and when the party appeared, something happened to the Halruaan people or they just forgot/didn't have to bother. 
 
 
 **Time on the island**
 
 The year the island was swallowed up was 1385 DR at the start of the spellplague
 The year the party left the world of toril was 1483 DR.
-The year they enter the island of Nimbral it is the year 2585 DR there. 
-1200 years have passed on the island on this new planet while 98 years have passed on toril.
-24 hours is about 2 hours on Toril.
-Scaling is about 1:12.25
+The year they enter the island of Nimbral it is the year 2485 DR there. 
+1100 years have passed on the island on this new planet while 98 years have passed on toril.
+24 hours is about 2 hours and 8 minutes on Toril.
+Scaling is about 1:11.22
 
 DR staat voor Dale Reckoning en wordt gebruikt net zoals AD wat staat voor Anno Domini.
 
@@ -104,11 +104,11 @@ DR staat voor Dale Reckoning en wordt gebruikt net zoals AD wat staat voor Anno 
 - Enter [[Nimbral]] after the storm
 - Enter the [[Deneir Village]]
 - Get linked to the pillars in the [[Shrine]]
+- Go to [[the deep current station]]
+- Reroute some power to [[Shrine]] teleporter and some to the [[Construct Intelligence Center]]
 - Go to the [[Construct Tracking Module]]
 - Get the coordinates for [[Toril]]
 - Get Anti Necrotic Wards from Mama Yaga
-- Go to [[the deep current station]]
-- Reroute some power to [[Shrine]] teleporter
 - Reroute the remaining power to the [[warp station]]
 - Enter the [[Deneir Project]]
 - Take out the [[Advanced energy core]]
