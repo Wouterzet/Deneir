@@ -1,5 +1,5 @@
 - An underground chamber under [[Deneir Village]]. Energy cables coming from the [[The Deep Current Station]] are plugged into a protective casing under the village.
-- There are eight lecterns with Halruaan books. five of the books are actively receiving data from the [[Construct Tracking Module]] and the [[Shrine]].
+- There are six lecterns with Halruaan books. five of the books are actively receiving data from the [[Construct Tracking Module]] and the [[Shrine]].
 - The [[Deneir Project]] was designed to use the energy from a dimensional rift (triggered by the [[Gateway Terminal]]) to send probe data from the [[Construct Intelligence Center]] into the past.
 - The [[Gateway Terminal]] only worked theoretically. Although the [[Deneir Project]] was sound on paper, the Halruaan were unable to power it.
 - There is an [[Advanced energy core]] inside the protective casing under the village. Removing the core will disable the [[Deneir Project]].
@@ -63,6 +63,6 @@ Evacuation notice
 
 Star has reached end of natural life cycle. Now approaching red giant stage. WARNING: Evacuate Sun Station.
 
-Projected impact event of heavenly body has entered final approach window. WARNING: Evacuate Evacuate all stations. Evacuate all posts.
+Projected impact event of heavenly body has entered final approach window. WARNING: Evacuate all stations. Evacuate all posts.
 
 Approximate time until impact: X HOURS
