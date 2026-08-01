@@ -41,7 +41,7 @@ Wind post - Deep Current Station failed
 
 [[Ilmarros]]: However, this is the closest we have ever been. The Deneir Project is theoretically sound; we were only unable to power it. Perhaps there is another way.
 
-[[Cevira]]: Suppose we redesign the Deep Current Station. To generate power of that magnitude on this empty planet, our only viable option is to use the thing the only thing that it has.
+[[Cevira]]: Suppose we redesign the Deep Current Station. To generate power of that magnitude on this empty planet, our only viable option is to use the only thing that it has.
 
 [[Ylindra]]: I believe we can still find a way to create a megaportal, my friend. Don’t lose hope!
 
