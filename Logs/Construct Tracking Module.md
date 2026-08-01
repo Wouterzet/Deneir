@@ -18,7 +18,7 @@ Text and recordings
 --
 **Deneir Project and construct**
 
-[[Ilmarros]]: I have exciting news, [[Elvanna]]: The [[Deneir Project]] is almost prepared to receive the construct data from the [[Construct Intelligence Center]].
+[[Ilmarros]]: I have exciting news, [[Elvanna]]. The [[Deneir Project]] is almost prepared to receive the construct data from the [[Construct Intelligence Center]].
 
 [[Ilmarros]]: [[Ylindra]] is adding some finishing touches here, but she’ll be finished soon. Are you and the [[Construct Intelligence Center]] well?
 
