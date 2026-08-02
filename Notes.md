@@ -28,8 +28,8 @@ About the [[Atropal]]
 
 Players can learn its weaknesses in the following ways:
 
-There are notes from a farmer about umbilical cords of lifestock (maybe not) or the stems of fruit (maybe better) that are supplying them with energy. Growing a record sized gourd??? hmmm
-The Atropal is connected to the Warp core with an umbilical cord. The supply of energy from the core through the Atropol causes an aura of necrotic energy around the atropol as leftover energy is exuded. This is also why the warp core is no longer capable of teleportation as the core is damaged. 
+There are notes from a farmer about umbilical cords of lifestock (maybe not) or the stems of fruit (maybe better) that are supplying them with energy. Growing a record sized gourd??? hmmm GREK 
+The Atropal is conne#cted to the Warp core with an umbilical cord. The supply of energy from the core through the Atropol causes an aura of necrotic energy around the atropol as leftover energy is exuded. This is also why the warp core is no longer capable of teleportation as the core is damaged. 
 
 However they cannot even get close to the umbilical cord because of the necrotic energy. But the party may ask [[Mamma Yaga]] for help with creating anti necrotic wards
 
