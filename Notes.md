@@ -28,9 +28,9 @@ About the [[Atropal]]
 
 Players can learn its weaknesses in the following ways:
 
-The Players might hear [[Grek Tovello]] screaming "no!" In the morning/midday. When investigating they will find Grek investigating a giant pumpkin he had been growing for the pumpkin competition of the skyfire festival. The stem of the pumpkin has broken and the pumpkin will no longer receive any nutrients and will not grow any bigger. His wife [[Meek Tovello]] will come up behind them and say that he doesn't have any competition anyway. Grek will respond that 
-There are notes from a farmer about umbilical cords of lifestock (maybe not) or the stems of fruit (maybe better) that are supplying them with energy. Growing a record sized gourd??? hmmm GREK 
-The Atropal is conne#cted to the Warp core with an umbilical cord. The supply of energy from the core through the Atropol causes an aura of necrotic energy around the atropol as leftover energy is exuded. This is also why the warp core is no longer capable of teleportation as the core is damaged. 
+The Players might hear [[Grek Tovello]] screaming "no!" In the morning/midday. When investigating they will find Grek investigating a giant pumpkin he had been growing for the pumpkin competition of the skyfire festival. The stem of the pumpkin has broken and the pumpkin will no longer receive any nutrients and will not grow any bigger. His wife [[Meek Tovello]] will come up behind them and say that he doesn't have any competition anyway. Grek will respond that that's because no one dares to go against him.
+
+The Atropal is connected to the Warp core with an umbilical cord. The supply of energy from the core through the Atropol causes an aura of necrotic energy around the atropol as leftover energy is exuded. This is also why the warp core is no longer capable of teleportation as the core is damaged. 
 
 However they cannot even get close to the umbilical cord because of the necrotic energy. But the party may ask [[Mamma Yaga]] for help with creating anti necrotic wards
 
