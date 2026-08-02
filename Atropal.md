@@ -84,7 +84,9 @@ If the atropal fails a saving throw, it can choose to succeed instead.
     
 - **Planar Anchor.** Its healing/regeneration (10 HP/round baseline) can be suppressed by interacting with the unstable portal — but only if the PCs know the correct sigils to inscribe (learned from ruins).
     
-- **Exhaustion Cap.** Its Wail is lethal on paper — but Halruaan notes might reveal that plugging your ears with silver dust stops the resonance (they’ll fail until they learn this).
+- **Exhaustion Cap.** Its Wail is lethal on paper — but Halruaan notes might reveal that plugging your ears with silver dust stops the resonance (they’ll fail until they learn this). The players can decipher the recipe with a high check and have to do another check to craft it. On a high result with the crafting check, they will be able to make 
+- 
+- Soho Peabody can help them decipher this and will also have the wax and silver dust needed for the earplugs. 
     
 
 ---

@@ -35,7 +35,6 @@ The Atropal is connected to the Warp core with an umbilical cord. The supply of 
 However they cannot even get close to the umbilical cord because of the necrotic energy. But the party may ask [[Mamma Yaga]] for help with creating anti necrotic wards
 
 
-
 They can find [[Annie Miller]] in Toril village who seemingly has "eyes in the back of her head" as she knows the children of the village are sneaking up on her while she is knitting on her porch. After more prying she reveals that after all these years alive she just feels peoples energy. That was also when she felt her husband had passed away when she felt him go invisible. 
 
 
