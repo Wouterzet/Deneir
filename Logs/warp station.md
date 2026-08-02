@@ -15,9 +15,7 @@ There is a minigame? where they must go underwater cave diving to get into the w
 
 When there they walk through the abandoned hallways and encounter a dark energy that has the following properties 
 
-When walking through it they receive ... Necrotic damage per round. Their vision reduces by 5 feet per round. They have disadvantage on Constitution saves at the start of the 2/3 round. They have the bone chilled effect. To not get damaged by this, they must receive a necrotic ward from [[Mamma Yaga]].
+When walking through it they receive 2 Necrotic damage per round which rises by 2 every round. Their vision reduces by 5 feet per round. They have disadvantage on Constitution saves at the start of the 2/3 round. They have the bone chilled effect. To not get damaged by this, they must receive a necrotic ward from [[Mamma Yaga]].
 
-
-
-On 
+When they enter the main room they see an atropal that is connected to a large machine in the center of the room by an umbilical cord.
 
