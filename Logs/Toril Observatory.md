@@ -31,7 +31,7 @@ One covers what they know about Toril and laments their lack of progress finding
 
 [[Thalior]]: How should our methods change as we continue our search for Toril?
 
-[[Elvanna]]: As we couldn’t find Toril’s using two different telescopes built for this exact purpose, we should discontinue this search method.
+[[Elvanna]]: As we couldn’t find Toril using two different telescopes built for this exact purpose, we should discontinue this search method.
 
 [[Maruviel]]: We know where Toril is thanks to the records, but we should be right on top of it. What if it is?
 
