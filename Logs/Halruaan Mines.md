@@ -22,8 +22,8 @@
 
 [[Ilmarros]]: My gratitude for the latest shipment, [[Elyndor]]! This ore should be the last we’ll need for the [[Deneir Project]].
 
-[[Ilmarros]]: Once we’ve finished the shell that seals off the central chamber, we’ll check to ensure there are no longer any physical entrances. Ramie and I will be checking the interior and then the exterior for cracks (our final safety check).
+[[Ilmarros]]: Once we’ve finished the shell that seals off the central chamber, we’ll check to ensure there are no longer any physical entrances. [[Ylindra]] and I will be checking the interior and then the exterior for cracks (our final safety check).
 
 [[Elyndor]]: This is exciting news! Can I offer an extra set of eyes for this final check (specifically, mine)? If my work here is complete, I’d be delighted to help.
 
-[[Ilmarros]]: We’d be grateful if you would! The more eyes, the better, as the smallest flaw or opening in the shell that protects the Ash Twin Project could lead to disaster.
+[[Ilmarros]]: We’d be grateful if you would! The more eyes, the better, as the smallest flaw or opening in the shell that protects the [[Deneir Project]] could lead to disaster.
