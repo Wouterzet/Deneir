@@ -1,4 +1,4 @@
-- An underground chamber under [[Deneir Village]]. Energy cables coming from the [[The Deep Current Station]] are plugged into a protective casing under the village.
+- An underground chamber under [[Deneir Village]]. Energy cables coming from the [[Deep Current Station]] are plugged into a protective casing under the village.
 - There are six lecterns with Halruaan books. five of the books are actively receiving data from the [[Construct Tracking Module]] and the [[Shrine]].
 - The [[Deneir Project]] was designed to use the energy from a dimensional rift (triggered by the [[Gateway Terminal]]) to send probe data from the [[Construct Intelligence Center]] into the past.
 - The [[Gateway Terminal]] only worked theoretically. Although the [[Deneir Project]] was sound on paper, the Halruaan were unable to power it.

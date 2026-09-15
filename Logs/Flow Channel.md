@@ -5,7 +5,7 @@ The ladder going down has broken halfway through and the players need to find a 
   ---
 **The flow channel**
 
-[[Ilmarros]]: Some time has passed since I checked in with you, Cevira. How are you and Tharivol progressing with [[The Deep Current Station]] plans?
+[[Ilmarros]]: Some time has passed since I checked in with you, Cevira. How are you and Tharivol progressing with the [[Deep Current Station]] plans?
 
 [[Cevira]]: Presently, my assessment is that our plan will either fail disastrously or succeed disastrously.
 

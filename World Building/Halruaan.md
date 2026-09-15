@@ -28,11 +28,11 @@ Worked on the [[Deneir Project]] and oversaw other projects as well.
 * [[Soriel]] Clary
 worked with [[Velthamar]] and [[Jassirion]] at the [[black hole forge]].
 * [[Tharivol]] Idaea
-worked at [[The Deep Current Station]]. Brother to [[Elvanna]].
+worked at the [[Deep Current Station]]. Brother to [[Elvanna]].
 * [[Elvanna]] Privet
 Worked at the [[Construct Intelligence Center]].  Sister of [[Tharivol]].
 * [[Cevira]] Pye
-Worked at the [[Esoteric Research Lab]] and [[The Deep Current Station]] as part of the [[Deneir Project]].
+Worked at the [[Esoteric Research Lab]] and the [[Deep Current Station]] as part of the [[Deneir Project]].
 * [[Ylindra]] Ramie
 Worked at the [[Esoteric Research Lab]] and helped build the [[Deneir Project]]'s core
  * [[Jassirion]] Root

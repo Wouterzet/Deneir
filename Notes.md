@@ -82,7 +82,7 @@ If a pillar were to lose synchronization with a user (in case of death or simila
 
 **Energy creation on the island.** 
 
-The island is situated on a planet with nothing other than water. The sun creates a tide that moves around the planet. The Halruaan people made tidal turbines below the island that slowly powered the [[Gateway Terminal]]. This was called [[The Deep Current Station]]. This station is where the turbines are that use the water coming in from [[The flow channel]] to generate power.
+The island is situated on a planet with nothing other than water. The sun creates a tide that moves around the planet. The Halruaan people made tidal turbines below the island that slowly powered the [[Gateway Terminal]]. This was called the [[Deep Current Station]]. This station is where the turbines are that use the water coming in from the [[Flow Channel]] to generate power.
 
 The Halruaan had no choice other than waiting for the [[Gateway Terminal]] to slowly be charged by the planets tides. In the time between the Halruaan people waiting and when the party appeared, something happened to the Halruaan people or they just forgot/didn't have to bother. 
 
@@ -103,7 +103,7 @@ DR staat voor Dale Reckoning en wordt gebruikt net zoals AD wat staat voor Anno 
 - Enter [[Nimbral]] after the storm
 - Enter the [[Deneir Village]]
 - Get linked to the pillars in the [[Shrine]]
-- Go to [[the deep current station]]
+- Go to the [[Deep Current Station]]
 - Reroute some power to [[Shrine]] teleporter and some to the [[Construct Intelligence Center]]
 - Go to the [[Construct Tracking Module]]
 - Get the coordinates for [[Toril]]

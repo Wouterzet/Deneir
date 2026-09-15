@@ -1,2 +1,2 @@
 Tharivol Zorinth, [[Halruaan]] (He/Him), brother of [[Elvanna]]. Deceased
-worked at [[The Deep Current Station]]. Brother to [[Elvanna]].
+worked at the [[Deep Current Station]]. Brother to [[Elvanna]].
