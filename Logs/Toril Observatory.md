@@ -14,7 +14,7 @@ One covers what they know about Toril and laments their lack of progress finding
 
 [[Thalior]]: What have we learned thus far in our search for Toril?
 
-[[Maruviel]]: Based on our records of Toril's celestial maps and this world's star chart, we believe Toril to be in orbit around a very nearby star. We would say that it orbits our current sun but we haven't been able to observe it.
+[[Maruviel]]: Based on our records of Toril's celestial maps and this world's star chart, we believe Toril to be in orbit around a very nearby star. We would say that it orbits our current sun, but we haven't been able to observe it.
 
 [[Elvanna]]: The telescope we built in Ormen and the new, better telescope we built here were both unable to observe any trace of Toril.
 

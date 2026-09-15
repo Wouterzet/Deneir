@@ -7,4 +7,3 @@ Nothing else happens on the surface but deep below the ground. Under a massive l
 
 The shrine has a carving in the stone base. The carving is in Halruaan so the party will have to go to the [[Library]] to find a book to translate it.
 "The river writes slowly. When it has written enough, the lost will be found."
-
