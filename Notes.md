@@ -120,3 +120,10 @@ DR staat voor Dale Reckoning en wordt gebruikt net zoals AD wat staat voor Anno 
 
 Things of note:
 The comet will destroy Nimbral at 05:00 on the second day of the skyfire festival. After taking out the warp core (and thus being able to go past 00:00) the players have some extra time compared to normally to defeat the Atropal and teleport the island back to Toril.
+
+
+One pebble at a time, you will move mountains
+
+Ship log updated
+
+There is more to explore here
